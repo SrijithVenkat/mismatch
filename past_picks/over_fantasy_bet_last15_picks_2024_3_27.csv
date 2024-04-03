@@ -1,0 +1,71 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Washington Wizards,28,PTS,C,Nic Claxton,Brooklyn Nets,12.5,-110,40%
+Washington Wizards,28,PTS,C,Nic Claxton,Brooklyn Nets,12.5,-108,40%
+Brooklyn Nets,26,PTS,C,Nic Claxton,Washington Wizards,12.5,-110,40%
+Brooklyn Nets,26,PTS,C,Nic Claxton,Washington Wizards,12.5,-108,40%
+Charlotte Hornets,27,REB,C,Jarrett Allen,Cleveland Cavaliers,10.5,-135,46%
+Charlotte Hornets,27,REB,C,Jarrett Allen,Cleveland Cavaliers,10.5,-128,46%
+Charlotte Hornets,27,REB,C,Jarrett Allen,Cleveland Cavaliers,11.5,-102,46%
+Charlotte Hornets,27,REB,C,Jarrett Allen,Cleveland Cavaliers,11.5,105,46%
+Minnesota Timberwolves,28,REB,C,Jalen Duren,Detroit Pistons,10.5,-135,26%
+Minnesota Timberwolves,28,REB,C,Jalen Duren,Detroit Pistons,10.5,-128,26%
+Philadelphia 76ers,26,REB,C,Ivica Zubac,LA Clippers,9.5,-125,26%
+Philadelphia 76ers,26,REB,C,Ivica Zubac,LA Clippers,9.5,-111,26%
+Portland Trail Blazers,28,PTS,G,Dejounte Murray,Atlanta Hawks,26.5,-120,40%
+Portland Trail Blazers,28,PTS,G,Dejounte Murray,Atlanta Hawks,26.5,-120,40%
+Los Angeles Lakers,27,PTS,G,Desmond Bane,Memphis Grizzlies,17.5,-140,13%
+Los Angeles Lakers,27,PTS,G,Desmond Bane,Memphis Grizzlies,18.5,-125,13%
+Los Angeles Lakers,27,PTS,G,Desmond Bane,Memphis Grizzlies,18.5,-122,13%
+Los Angeles Lakers,27,PTS,G,Desmond Bane,Memphis Grizzlies,19.5,-120,13%
+Los Angeles Lakers,27,PTS,G,Desmond Bane,Memphis Grizzlies,19.5,-113,13%
+Los Angeles Lakers,27,PTS,G,Desmond Bane,Memphis Grizzlies,20.5,-102,13%
+Charlotte Hornets,26,REB,G,Darius Garland,Cleveland Cavaliers,2.5,-135,53%
+Charlotte Hornets,26,REB,G,Darius Garland,Cleveland Cavaliers,2.5,-125,53%
+Chicago Bulls,29,REB,G,Tyrese Haliburton,Indiana Pacers,4.5,110,40%
+Chicago Bulls,29,REB,G,Tyrese Haliburton,Indiana Pacers,4.5,124,40%
+Indiana Pacers,30,REB,G,Ayo Dosunmu,Chicago Bulls,3.5,130,33%
+Indiana Pacers,30,REB,G,Coby White,Chicago Bulls,4.5,-106,40%
+Indiana Pacers,30,REB,G,Coby White,Chicago Bulls,4.5,-105,40%
+Denver Nuggets,27,REB,G,Grayson Allen,Phoenix Suns,3.5,116,33%
+Denver Nuggets,27,REB,G,Grayson Allen,Phoenix Suns,3.5,124,33%
+Denver Nuggets,27,REB,G,Bradley Beal,Phoenix Suns,4.5,130,33%
+Denver Nuggets,27,REB,G,Devin Booker,Phoenix Suns,4.5,100,46%
+Denver Nuggets,27,REB,G,Devin Booker,Phoenix Suns,4.5,104,46%
+Chicago Bulls,30,AST,G,Tyrese Haliburton,Indiana Pacers,10.5,-142,46%
+Chicago Bulls,30,AST,G,Tyrese Haliburton,Indiana Pacers,11.5,-115,33%
+Chicago Bulls,30,AST,G,Tyrese Haliburton,Indiana Pacers,11.5,-111,33%
+Phoenix Suns,27,AST,G,Jamal Murray,Denver Nuggets,6.5,-150,53%
+Phoenix Suns,27,AST,G,Jamal Murray,Denver Nuggets,6.5,-148,53%
+Phoenix Suns,27,AST,G,Jamal Murray,Denver Nuggets,7.5,120,40%
+Golden State Warriors,29,AST,G,Jalen Suggs,Orlando Magic,3.5,126,33%
+Golden State Warriors,29,AST,G,Jalen Suggs,Orlando Magic,3.5,135,33%
+Phoenix Suns,30,PTS,F,Aaron Gordon,Denver Nuggets,14.5,-115,53%
+Phoenix Suns,30,PTS,F,Aaron Gordon,Denver Nuggets,14.5,-113,53%
+Phoenix Suns,30,PTS,F,Michael Porter Jr.,Denver Nuggets,16.5,-130,60%
+Phoenix Suns,30,PTS,F,Michael Porter Jr.,Denver Nuggets,17.5,-125,60%
+Phoenix Suns,30,PTS,F,Michael Porter Jr.,Denver Nuggets,17.5,-120,60%
+Phoenix Suns,30,PTS,F,Michael Porter Jr.,Denver Nuggets,18.5,-108,60%
+Orlando Magic,29,PTS,F,Draymond Green,Golden State Warriors,6.5,-150,46%
+Orlando Magic,29,PTS,F,Draymond Green,Golden State Warriors,6.5,-130,46%
+Orlando Magic,29,PTS,F,Draymond Green,Golden State Warriors,7.5,104,33%
+Orlando Magic,29,PTS,F,Draymond Green,Golden State Warriors,7.5,105,33%
+Orlando Magic,29,PTS,F,Jonathan Kuminga,Golden State Warriors,16.5,-130,73%
+Orlando Magic,29,PTS,F,Jonathan Kuminga,Golden State Warriors,15.5,-128,80%
+Orlando Magic,29,PTS,F,Jonathan Kuminga,Golden State Warriors,16.5,-108,73%
+Orlando Magic,29,PTS,F,Andrew Wiggins,Golden State Warriors,10.5,-145,46%
+Orlando Magic,29,PTS,F,Andrew Wiggins,Golden State Warriors,10.5,-122,46%
+Orlando Magic,29,PTS,F,Andrew Wiggins,Golden State Warriors,11.5,-113,40%
+Orlando Magic,29,PTS,F,Andrew Wiggins,Golden State Warriors,11.5,-105,40%
+Orlando Magic,29,PTS,F,Andrew Wiggins,Golden State Warriors,12.5,-102,40%
+Golden State Warriors,27,REB,F,Paolo Banchero,Orlando Magic,6.5,-150,40%
+Golden State Warriors,27,REB,F,Paolo Banchero,Orlando Magic,7.5,110,33%
+Golden State Warriors,27,REB,F,Paolo Banchero,Orlando Magic,7.5,114,33%
+Golden State Warriors,27,REB,F,Franz Wagner,Orlando Magic,4.5,-150,53%
+Golden State Warriors,27,REB,F,Franz Wagner,Orlando Magic,4.5,-136,53%
+Washington Wizards,29,REB,F,Dorian Finney-Smith,Brooklyn Nets,4.5,-138,33%
+Washington Wizards,29,REB,F,Dorian Finney-Smith,Brooklyn Nets,4.5,-130,33%
+Washington Wizards,29,REB,F,Dorian Finney-Smith,Brooklyn Nets,5.5,118,13%
+Chicago Bulls,26,AST,F,Pascal Siakam,Indiana Pacers,3.5,-125,46%
+Chicago Bulls,26,AST,F,Pascal Siakam,Indiana Pacers,3.5,-120,46%
+Phoenix Suns,28,AST,F,Aaron Gordon,Denver Nuggets,3.5,-125,53%
+Phoenix Suns,28,AST,F,Aaron Gordon,Denver Nuggets,3.5,-115,53%

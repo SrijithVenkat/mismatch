@@ -1,0 +1,72 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+LA Clippers,4,PTS,C,Mo Bamba,Philadelphia 76ers,7.5,-135,40%
+LA Clippers,4,PTS,C,Mo Bamba,Philadelphia 76ers,7.5,-128,40%
+LA Clippers,4,PTS,C,Mo Bamba,Philadelphia 76ers,6.5,-122,40%
+LA Clippers,4,PTS,C,Mo Bamba,Philadelphia 76ers,6.5,-110,40%
+Oklahoma City Thunder,3,REB,C,Brook Lopez,Milwaukee Bucks,5.5,-135,40%
+Oklahoma City Thunder,3,REB,C,Brook Lopez,Milwaukee Bucks,5.5,-132,40%
+Oklahoma City Thunder,3,REB,C,Brook Lopez,Milwaukee Bucks,4.5,110,47%
+Philadelphia 76ers,2,PTS,G,James Harden,LA Clippers,17.5,-122,54%
+Philadelphia 76ers,2,PTS,G,James Harden,LA Clippers,16.5,-112,54%
+Philadelphia 76ers,2,PTS,G,James Harden,LA Clippers,16.5,-105,54%
+Philadelphia 76ers,2,PTS,G,James Harden,LA Clippers,15.5,105,54%
+Philadelphia 76ers,2,PTS,G,Norman Powell,LA Clippers,13.5,-120,74%
+Philadelphia 76ers,2,PTS,G,Norman Powell,LA Clippers,13.5,-118,74%
+Minnesota Timberwolves,5,PTS,G,Stephen Curry,Golden State Warriors,25.5,-120,47%
+Minnesota Timberwolves,5,PTS,G,Stephen Curry,Golden State Warriors,24.5,-104,60%
+Minnesota Timberwolves,5,PTS,G,Stephen Curry,Golden State Warriors,24.5,105,60%
+Minnesota Timberwolves,5,PTS,G,Chris Paul,Golden State Warriors,8.5,-125,80%
+Minnesota Timberwolves,5,PTS,G,Brandin Podziemski,Golden State Warriors,8.5,-134,47%
+Minnesota Timberwolves,5,PTS,G,Brandin Podziemski,Golden State Warriors,8.5,-130,47%
+Minnesota Timberwolves,5,PTS,G,Brandin Podziemski,Golden State Warriors,7.5,-115,60%
+Minnesota Timberwolves,5,PTS,G,Brandin Podziemski,Golden State Warriors,7.5,102,60%
+Minnesota Timberwolves,5,PTS,G,Klay Thompson,Golden State Warriors,16.5,-124,60%
+Minnesota Timberwolves,5,PTS,G,Klay Thompson,Golden State Warriors,16.5,-120,60%
+Minnesota Timberwolves,5,PTS,G,Klay Thompson,Golden State Warriors,15.5,-105,67%
+New Orleans Pelicans,2,REB,G,Cade Cunningham,Detroit Pistons,4.5,-125,67%
+New Orleans Pelicans,2,REB,G,Cade Cunningham,Detroit Pistons,4.5,-118,67%
+New Orleans Pelicans,2,REB,G,Jaden Ivey,Detroit Pistons,3.5,-138,20%
+New Orleans Pelicans,2,REB,G,Jaden Ivey,Detroit Pistons,3.5,-125,20%
+New Orleans Pelicans,2,REB,G,Jaden Ivey,Detroit Pistons,2.5,132,54%
+Minnesota Timberwolves,5,REB,G,Stephen Curry,Golden State Warriors,4.5,-148,67%
+Minnesota Timberwolves,5,REB,G,Stephen Curry,Golden State Warriors,3.5,120,67%
+Minnesota Timberwolves,5,REB,G,Stephen Curry,Golden State Warriors,3.5,124,67%
+Minnesota Timberwolves,5,REB,G,Chris Paul,Golden State Warriors,3.5,110,87%
+Minnesota Timberwolves,5,REB,G,Brandin Podziemski,Golden State Warriors,5.5,-144,54%
+Minnesota Timberwolves,5,REB,G,Brandin Podziemski,Golden State Warriors,4.5,114,74%
+Minnesota Timberwolves,5,REB,G,Klay Thompson,Golden State Warriors,2.5,130,40%
+Minnesota Timberwolves,5,REB,G,Klay Thompson,Golden State Warriors,2.5,132,40%
+Philadelphia 76ers,4,AST,G,James Harden,LA Clippers,8.5,104,60%
+Philadelphia 76ers,4,AST,G,James Harden,LA Clippers,8.5,114,60%
+Indiana Pacers,3,AST,G,Austin Reaves,Los Angeles Lakers,4.5,108,47%
+Indiana Pacers,3,AST,G,Austin Reaves,Los Angeles Lakers,4.5,120,47%
+Indiana Pacers,3,AST,G,D'Angelo Russell,Los Angeles Lakers,5.5,-113,67%
+Indiana Pacers,3,AST,G,D'Angelo Russell,Los Angeles Lakers,5.5,-110,67%
+New Orleans Pelicans,5,PTS,F,Tosan Evbuomwan,Detroit Pistons,9.5,-128,94%
+New Orleans Pelicans,5,PTS,F,Tosan Evbuomwan,Detroit Pistons,9.5,-115,94%
+New Orleans Pelicans,5,PTS,F,Tosan Evbuomwan,Detroit Pistons,8.5,106,94%
+New Orleans Pelicans,3,REB,F,Tosan Evbuomwan,Detroit Pistons,5.5,-148,80%
+New Orleans Pelicans,3,REB,F,Tosan Evbuomwan,Detroit Pistons,5.5,-135,80%
+New Orleans Pelicans,3,REB,F,Tosan Evbuomwan,Detroit Pistons,4.5,110,80%
+New Orleans Pelicans,3,REB,F,Tosan Evbuomwan,Detroit Pistons,4.5,120,80%
+Los Angeles Lakers,1,REB,F,Pascal Siakam,Indiana Pacers,7.5,-105,74%
+Los Angeles Lakers,1,REB,F,Pascal Siakam,Indiana Pacers,7.5,102,74%
+Indiana Pacers,5,REB,F,Rui Hachimura,Los Angeles Lakers,3.5,106,47%
+Indiana Pacers,5,REB,F,Rui Hachimura,Los Angeles Lakers,3.5,120,47%
+Cleveland Cavaliers,2,REB,F,Jimmy Butler,Miami Heat,5.5,-148,47%
+Cleveland Cavaliers,2,REB,F,Jimmy Butler,Miami Heat,5.5,-140,47%
+Cleveland Cavaliers,2,REB,F,Jimmy Butler,Miami Heat,4.5,118,54%
+Cleveland Cavaliers,2,REB,F,Nikola Jovic,Miami Heat,3.5,110,60%
+Cleveland Cavaliers,2,REB,F,Nikola Jovic,Miami Heat,3.5,112,60%
+Oklahoma City Thunder,4,REB,F,Giannis Antetokounmpo,Milwaukee Bucks,12.5,-140,47%
+Oklahoma City Thunder,4,REB,F,Giannis Antetokounmpo,Milwaukee Bucks,12.5,-132,47%
+Oklahoma City Thunder,4,REB,F,Giannis Antetokounmpo,Milwaukee Bucks,11.5,100,54%
+Oklahoma City Thunder,4,REB,F,Khris Middleton,Milwaukee Bucks,4.5,-108,94%
+Oklahoma City Thunder,4,REB,F,Khris Middleton,Milwaukee Bucks,4.5,100,94%
+Philadelphia 76ers,4,AST,F,Paul George,LA Clippers,3.5,-122,47%
+Philadelphia 76ers,4,AST,F,Paul George,LA Clippers,3.5,-120,47%
+Philadelphia 76ers,4,AST,F,Kawhi Leonard,LA Clippers,3.5,-142,47%
+Philadelphia 76ers,4,AST,F,Kawhi Leonard,LA Clippers,3.5,-135,47%
+Philadelphia 76ers,4,AST,F,Kawhi Leonard,LA Clippers,2.5,126,67%
+Los Angeles Lakers,5,AST,F,Pascal Siakam,Indiana Pacers,3.5,-125,47%
+Los Angeles Lakers,5,AST,F,Pascal Siakam,Indiana Pacers,3.5,-111,47%

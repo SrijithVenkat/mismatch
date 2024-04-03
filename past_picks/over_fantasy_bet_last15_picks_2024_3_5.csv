@@ -1,0 +1,34 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+San Antonio Spurs,28,PTS,C,Alperen Sengun,Houston Rockets,21.5,-125,20%
+San Antonio Spurs,28,PTS,C,Alperen Sengun,Houston Rockets,21.5,-120,20%
+Phoenix Suns,26,AST,C,Nikola Jokic,Denver Nuggets,8.5,-135,46%
+Phoenix Suns,26,AST,C,Nikola Jokic,Denver Nuggets,9.5,114,40%
+Orlando Magic,26,PTS,G,Tre Mann,Charlotte Hornets,11.5,-128,20%
+Orlando Magic,26,PTS,G,Tre Mann,Charlotte Hornets,12.5,100,20%
+Brooklyn Nets,26,REB,G,Buddy Hield,Philadelphia 76ers,3.5,100,40%
+Brooklyn Nets,26,REB,G,Buddy Hield,Philadelphia 76ers,3.5,112,40%
+Brooklyn Nets,26,REB,G,Tyrese Maxey,Philadelphia 76ers,3.5,-142,40%
+Brooklyn Nets,26,REB,G,Tyrese Maxey,Philadelphia 76ers,3.5,-140,40%
+San Antonio Spurs,28,REB,G,Jalen Green,Houston Rockets,4.5,-140,46%
+San Antonio Spurs,28,REB,G,Jalen Green,Houston Rockets,4.5,-128,46%
+Atlanta Hawks,29,REB,G,Jalen Brunson,New York Knicks,3.5,-115,33%
+Atlanta Hawks,29,REB,G,Jalen Brunson,New York Knicks,3.5,-115,33%
+Atlanta Hawks,29,REB,G,Josh Hart,New York Knicks,11.5,-118,33%
+Charlotte Hornets,28,AST,G,Jalen Suggs,Orlando Magic,2.5,-140,46%
+Charlotte Hornets,28,AST,G,Jalen Suggs,Orlando Magic,2.5,-132,46%
+New Orleans Pelicans,27,AST,G,Immanuel Quickley,Toronto Raptors,7.5,102,26%
+Toronto Raptors,30,PTS,F,Brandon Ingram,New Orleans Pelicans,21.5,-130,53%
+Toronto Raptors,30,PTS,F,Brandon Ingram,New Orleans Pelicans,21.5,-113,53%
+Toronto Raptors,30,PTS,F,Herbert Jones,New Orleans Pelicans,10.5,-120,60%
+Toronto Raptors,30,PTS,F,Herbert Jones,New Orleans Pelicans,10.5,-111,60%
+Toronto Raptors,30,PTS,F,Zion Williamson,New Orleans Pelicans,22.5,-115,46%
+Toronto Raptors,30,PTS,F,Zion Williamson,New Orleans Pelicans,22.5,-110,46%
+Phoenix Suns,28,REB,F,Aaron Gordon,Denver Nuggets,6.5,-120,40%
+Phoenix Suns,28,REB,F,Aaron Gordon,Denver Nuggets,6.5,-111,40%
+Dallas Mavericks,29,AST,F,Pascal Siakam,Indiana Pacers,3.5,-125,46%
+Dallas Mavericks,29,AST,F,Pascal Siakam,Indiana Pacers,3.5,-110,46%
+Detroit Pistons,30,AST,F,Jimmy Butler,Miami Heat,5.5,-140,40%
+Detroit Pistons,30,AST,F,Jimmy Butler,Miami Heat,5.5,-128,40%
+Detroit Pistons,30,AST,F,Duncan Robinson,Miami Heat,3.5,-115,26%
+New York Knicks,26,AST,F,Jalen Johnson,Atlanta Hawks,3.5,114,60%
+New York Knicks,26,AST,F,Jalen Johnson,Atlanta Hawks,3.5,120,60%

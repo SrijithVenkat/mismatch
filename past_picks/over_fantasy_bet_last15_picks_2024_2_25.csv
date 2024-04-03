@@ -1,0 +1,35 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Portland Trail Blazers,28,PTS,C,Nick Richards,Charlotte Hornets,10.5,-108,60.0%
+Washington Wizards,26,PTS,C,Jarrett Allen,Cleveland Cavaliers,17.5,-113,60.0%
+Washington Wizards,26,PTS,C,Evan Mobley,Cleveland Cavaliers,15.5,-106,20.0%
+Oklahoma City Thunder,27,REB,C,Alperen Sengun,Houston Rockets,9.5,-128,60.0%
+Portland Trail Blazers,26,REB,C,Nick Richards,Charlotte Hornets,8.5,-138,60.0%
+Washington Wizards,30,REB,C,Jarrett Allen,Cleveland Cavaliers,11.5,-111,33.33333333333333%
+Washington Wizards,30,REB,C,Evan Mobley,Cleveland Cavaliers,9.5,-136,40.0%
+Atlanta Hawks,29,PTS,G,Gary Harris,Orlando Magic,7.5,-106,20.0%
+Atlanta Hawks,29,PTS,G,Jalen Suggs,Orlando Magic,10.5,-113,46.666666666666664%
+Orlando Magic,28,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,17.5,-108,40.0%
+Orlando Magic,28,PTS,G,Dejounte Murray,Atlanta Hawks,23.5,-115,33.33333333333333%
+Indiana Pacers,26,PTS,G,Josh Green,Dallas Mavericks,8.5,-105,66.66666666666666%
+Indiana Pacers,26,PTS,G,Kyrie Irving,Dallas Mavericks,27.5,-110,20.0%
+LA Clippers,30,PTS,G,De'Aaron Fox,Sacramento Kings,25.5,-108,40.0%
+LA Clippers,30,PTS,G,Malik Monk,Sacramento Kings,16.5,-108,53.333333333333336%
+Philadelphia 76ers,27,PTS,G,Malik Beasley,Milwaukee Bucks,11.5,-112,40.0%
+Philadelphia 76ers,27,PTS,G,Damian Lillard,Milwaukee Bucks,24.5,-110,33.33333333333333%
+Atlanta Hawks,29,REB,G,Jalen Suggs,Orlando Magic,3.5,128,33.33333333333333%
+Dallas Mavericks,26,REB,G,Tyrese Haliburton,Indiana Pacers,3.5,-124,20.0%
+San Antonio Spurs,28,REB,G,Jordan Clarkson,Utah Jazz,3.5,-128,26.666666666666668%
+San Antonio Spurs,28,REB,G,Keyonte George,Utah Jazz,3.5,118,26.666666666666668%
+New Orleans Pelicans,27,AST,G,Alex Caruso,Chicago Bulls,3.5,102,40.0%
+New Orleans Pelicans,27,AST,G,Ayo Dosunmu,Chicago Bulls,3.5,-128,40.0%
+New Orleans Pelicans,27,AST,G,Coby White,Chicago Bulls,5.5,-104,53.333333333333336%
+Philadelphia 76ers,26,AST,G,Damian Lillard,Milwaukee Bucks,6.5,-108,46.666666666666664%
+Charlotte Hornets,28,AST,G,Anfernee Simons,Portland Trail Blazers,6.5,-136,26.666666666666668%
+Utah Jazz,30,AST,G,Tre Jones,San Antonio Spurs,6.5,-148,53.333333333333336%
+Atlanta Hawks,30,PTS,F,Paolo Banchero,Orlando Magic,22.5,-104,53.333333333333336%
+Atlanta Hawks,30,PTS,F,Franz Wagner,Orlando Magic,20.5,-118,33.33333333333333%
+Golden State Warriors,28,PTS,F,Aaron Gordon,Denver Nuggets,15.5,-104,33.33333333333333%
+Los Angeles Lakers,27,PTS,F,Kevin Durant,Phoenix Suns,29.5,-105,26.666666666666668%
+Golden State Warriors,26,REB,F,Aaron Gordon,Denver Nuggets,6.5,114,40.0%
+Phoenix Suns,28,REB,F,Rui Hachimura,Los Angeles Lakers,4.5,116,40.0%
+Los Angeles Lakers,29,REB,F,Kevin Durant,Phoenix Suns,7.5,114,53.333333333333336%

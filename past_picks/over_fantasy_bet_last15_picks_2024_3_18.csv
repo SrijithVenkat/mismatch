@@ -1,0 +1,44 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Utah Jazz,28,PTS,C,Rudy Gobert,Minnesota Timberwolves,14.5,-125,33%
+Utah Jazz,28,PTS,C,Rudy Gobert,Minnesota Timberwolves,15.5,100,33%
+Utah Jazz,28,PTS,C,Rudy Gobert,Minnesota Timberwolves,15.5,100,33%
+Los Angeles Lakers,27,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,15.5,-145,40%
+Los Angeles Lakers,27,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,15.5,-125,40%
+Los Angeles Lakers,27,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,16.5,-111,33%
+Los Angeles Lakers,27,PTS,G,Dejounte Murray,Atlanta Hawks,25.5,-130,33%
+Los Angeles Lakers,27,PTS,G,Dejounte Murray,Atlanta Hawks,25.5,-120,33%
+Los Angeles Lakers,27,PTS,G,Dejounte Murray,Atlanta Hawks,26.5,-106,33%
+Miami Heat,28,PTS,G,Tyrese Maxey,Philadelphia 76ers,26.5,-113,40%
+Utah Jazz,26,PTS,G,Mike Conley,Minnesota Timberwolves,12.5,-130,40%
+Utah Jazz,26,PTS,G,Mike Conley,Minnesota Timberwolves,12.5,-125,40%
+Utah Jazz,26,PTS,G,Mike Conley,Minnesota Timberwolves,13.5,110,40%
+Utah Jazz,26,PTS,G,Anthony Edwards,Minnesota Timberwolves,31.5,-125,40%
+Utah Jazz,26,PTS,G,Anthony Edwards,Minnesota Timberwolves,30.5,-115,46%
+Utah Jazz,26,PTS,G,Anthony Edwards,Minnesota Timberwolves,31.5,-115,40%
+Indiana Pacers,28,REB,G,Darius Garland,Cleveland Cavaliers,2.5,-115,40%
+Indiana Pacers,28,REB,G,Darius Garland,Cleveland Cavaliers,2.5,-104,40%
+Memphis Grizzlies,29,REB,G,De'Aaron Fox,Sacramento Kings,4.5,-125,60%
+Memphis Grizzlies,29,REB,G,De'Aaron Fox,Sacramento Kings,4.5,-120,60%
+Los Angeles Lakers,26,AST,G,Bogdan Bogdanovic,Atlanta Hawks,4.5,130,26%
+Los Angeles Lakers,26,AST,G,Bogdan Bogdanovic,Atlanta Hawks,4.5,132,26%
+Los Angeles Lakers,26,AST,G,Dejounte Murray,Atlanta Hawks,7.5,-138,53%
+Los Angeles Lakers,26,AST,G,Dejounte Murray,Atlanta Hawks,8.5,-110,53%
+Los Angeles Lakers,26,AST,G,Dejounte Murray,Atlanta Hawks,8.5,100,53%
+Minnesota Timberwolves,30,AST,G,Keyonte George,Utah Jazz,5.5,-110,53%
+New York Knicks,29,PTS,F,Draymond Green,Golden State Warriors,6.5,-130,53%
+New York Knicks,29,PTS,F,Draymond Green,Golden State Warriors,6.5,-125,53%
+New York Knicks,29,PTS,F,Jonathan Kuminga,Golden State Warriors,17.5,-115,66%
+New York Knicks,29,PTS,F,Jonathan Kuminga,Golden State Warriors,17.5,-113,66%
+New York Knicks,29,PTS,F,Jonathan Kuminga,Golden State Warriors,18.5,-105,66%
+New York Knicks,29,PTS,F,Jonathan Kuminga,Golden State Warriors,18.5,100,66%
+New York Knicks,29,PTS,F,Andrew Wiggins,Golden State Warriors,10.5,-140,53%
+New York Knicks,29,PTS,F,Andrew Wiggins,Golden State Warriors,10.5,-132,53%
+New York Knicks,29,PTS,F,Andrew Wiggins,Golden State Warriors,11.5,-115,46%
+New York Knicks,29,PTS,F,Andrew Wiggins,Golden State Warriors,11.5,-104,46%
+Atlanta Hawks,30,PTS,F,Rui Hachimura,Los Angeles Lakers,13.5,-120,66%
+Chicago Bulls,26,REB,F,Toumani Camara,Portland Trail Blazers,5.5,-115,53%
+Chicago Bulls,26,REB,F,Toumani Camara,Portland Trail Blazers,5.5,-113,53%
+Chicago Bulls,26,REB,F,Kris Murray,Portland Trail Blazers,3.5,-150,73%
+Chicago Bulls,26,REB,F,Kris Murray,Portland Trail Blazers,4.5,110,46%
+Chicago Bulls,26,REB,F,Kris Murray,Portland Trail Blazers,4.5,122,46%
+Philadelphia 76ers,26,AST,F,Jimmy Butler,Miami Heat,5.5,124,33%

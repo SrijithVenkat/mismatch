@@ -1,0 +1,68 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Cleveland Cavaliers,2,PTS,C,Nick Richards,Charlotte Hornets,9.5,-104,60%
+Cleveland Cavaliers,2,PTS,C,Nick Richards,Charlotte Hornets,9.5,100,60%
+Indiana Pacers,5,PTS,C,Nikola Vucevic,Chicago Bulls,17.5,-113,54%
+Indiana Pacers,5,PTS,C,Nikola Vucevic,Chicago Bulls,16.5,-102,60%
+Indiana Pacers,5,PTS,C,Nikola Vucevic,Chicago Bulls,16.5,110,60%
+LA Clippers,4,PTS,C,Mo Bamba,Philadelphia 76ers,6.5,-130,40%
+LA Clippers,4,PTS,C,Mo Bamba,Philadelphia 76ers,6.5,-122,40%
+Washington Wizards,1,AST,C,Nic Claxton,Brooklyn Nets,2.5,-130,27%
+Denver Nuggets,3,PTS,G,Grayson Allen,Phoenix Suns,11.5,-110,60%
+Denver Nuggets,3,PTS,G,Grayson Allen,Phoenix Suns,11.5,100,60%
+Denver Nuggets,3,PTS,G,Bradley Beal,Phoenix Suns,15.5,-125,60%
+Denver Nuggets,3,PTS,G,Bradley Beal,Phoenix Suns,15.5,-122,60%
+Denver Nuggets,3,PTS,G,Bradley Beal,Phoenix Suns,14.5,-102,67%
+Denver Nuggets,3,PTS,G,Devin Booker,Phoenix Suns,26.5,-115,60%
+Denver Nuggets,3,PTS,G,Devin Booker,Phoenix Suns,26.5,-115,60%
+Minnesota Timberwolves,5,PTS,G,Cade Cunningham,Detroit Pistons,19.5,-106,67%
+Minnesota Timberwolves,5,PTS,G,Cade Cunningham,Detroit Pistons,19.5,-105,67%
+Philadelphia 76ers,2,PTS,G,James Harden,LA Clippers,15.5,-106,47%
+Philadelphia 76ers,2,PTS,G,James Harden,LA Clippers,15.5,100,47%
+Philadelphia 76ers,2,PTS,G,James Harden,LA Clippers,14.5,100,54%
+Philadelphia 76ers,2,PTS,G,James Harden,LA Clippers,14.5,120,54%
+Philadelphia 76ers,2,PTS,G,Norman Powell,LA Clippers,13.5,-115,74%
+Philadelphia 76ers,2,PTS,G,Norman Powell,LA Clippers,13.5,-108,74%
+Philadelphia 76ers,2,PTS,G,Russell Westbrook,LA Clippers,8.5,-125,87%
+Philadelphia 76ers,2,PTS,G,Russell Westbrook,LA Clippers,8.5,-115,87%
+New York Knicks,4,PTS,G,Ochai Agbaji,Toronto Raptors,9.5,-120,40%
+New York Knicks,4,PTS,G,Ochai Agbaji,Toronto Raptors,9.5,-118,40%
+New York Knicks,4,PTS,G,Gary Trent Jr.,Toronto Raptors,19.5,-128,47%
+New York Knicks,4,PTS,G,Gary Trent Jr.,Toronto Raptors,19.5,-120,47%
+New York Knicks,4,PTS,G,Gary Trent Jr.,Toronto Raptors,18.5,-105,47%
+New York Knicks,4,PTS,G,Gary Trent Jr.,Toronto Raptors,18.5,-104,47%
+Portland Trail Blazers,1,REB,G,Dejounte Murray,Atlanta Hawks,5.5,102,54%
+Portland Trail Blazers,1,REB,G,Dejounte Murray,Atlanta Hawks,5.5,110,54%
+Phoenix Suns,4,REB,G,Kentavious Caldwell-Pope,Denver Nuggets,2.5,-140,40%
+Phoenix Suns,4,REB,G,Kentavious Caldwell-Pope,Denver Nuggets,2.5,-135,40%
+Phoenix Suns,4,REB,G,Jamal Murray,Denver Nuggets,4.5,-140,54%
+Phoenix Suns,4,REB,G,Jamal Murray,Denver Nuggets,3.5,122,74%
+Phoenix Suns,4,REB,G,Jamal Murray,Denver Nuggets,3.5,124,74%
+Minnesota Timberwolves,5,REB,G,Cade Cunningham,Detroit Pistons,4.5,-148,67%
+Minnesota Timberwolves,5,REB,G,Cade Cunningham,Detroit Pistons,4.5,-145,67%
+Indiana Pacers,3,AST,G,Ayo Dosunmu,Chicago Bulls,4.5,-138,54%
+Indiana Pacers,3,AST,G,Ayo Dosunmu,Chicago Bulls,4.5,-125,54%
+Indiana Pacers,3,AST,G,Coby White,Chicago Bulls,4.5,118,67%
+Indiana Pacers,3,AST,G,Coby White,Chicago Bulls,4.5,120,67%
+Houston Rockets,1,AST,G,Josh Giddey,Oklahoma City Thunder,4.5,-136,47%
+Houston Rockets,1,AST,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,6.5,-150,34%
+Houston Rockets,1,AST,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,5.5,110,47%
+Philadelphia 76ers,4,AST,G,James Harden,LA Clippers,8.5,-122,67%
+Philadelphia 76ers,4,AST,G,James Harden,LA Clippers,8.5,100,67%
+Philadelphia 76ers,4,AST,G,Russell Westbrook,LA Clippers,3.5,-136,87%
+Philadelphia 76ers,4,AST,G,Russell Westbrook,LA Clippers,3.5,-125,87%
+Denver Nuggets,1,PTS,F,Kevin Durant,Phoenix Suns,25.5,-120,40%
+Denver Nuggets,1,PTS,F,Kevin Durant,Phoenix Suns,25.5,-120,40%
+Cleveland Cavaliers,2,REB,F,Miles Bridges,Charlotte Hornets,7.5,-110,54%
+Cleveland Cavaliers,2,REB,F,Miles Bridges,Charlotte Hornets,7.5,-108,54%
+Cleveland Cavaliers,2,REB,F,Brandon Miller,Charlotte Hornets,4.5,-115,60%
+Cleveland Cavaliers,2,REB,F,Brandon Miller,Charlotte Hornets,4.5,-110,60%
+Oklahoma City Thunder,4,REB,F,Jabari Smith Jr.,Houston Rockets,8.5,-111,54%
+Oklahoma City Thunder,4,REB,F,Jabari Smith Jr.,Houston Rockets,8.5,-105,54%
+Orlando Magic,3,AST,F,Draymond Green,Golden State Warriors,6.5,-150,40%
+Orlando Magic,3,AST,F,Draymond Green,Golden State Warriors,5.5,110,60%
+Orlando Magic,3,AST,F,Draymond Green,Golden State Warriors,5.5,118,60%
+Orlando Magic,3,AST,F,Jonathan Kuminga,Golden State Warriors,2.5,-150,34%
+Philadelphia 76ers,4,AST,F,Paul George,LA Clippers,2.5,130,67%
+Philadelphia 76ers,4,AST,F,Paul George,LA Clippers,2.5,134,67%
+Philadelphia 76ers,4,AST,F,Kawhi Leonard,LA Clippers,2.5,135,67%
+Philadelphia 76ers,4,AST,F,Kawhi Leonard,LA Clippers,2.5,140,67%

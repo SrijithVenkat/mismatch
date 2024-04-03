@@ -1,0 +1,19 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Chicago Bulls,4,STL,C,Jarrett Allen,Cleveland Cavaliers,0.5,-105,34%
+Chicago Bulls,4,STL,C,Evan Mobley,Cleveland Cavaliers,0.5,105,74%
+Chicago Bulls,1,TOV,C,Jarrett Allen,Cleveland Cavaliers,1.5,-135,47%
+Chicago Bulls,1,TOV,C,Evan Mobley,Cleveland Cavaliers,1.5,-130,47%
+Sacramento Kings,2,TOV,C,Nikola Jokic,Denver Nuggets,2.5,114,54%
+Chicago Bulls,4,BLK,C,Evan Mobley,Cleveland Cavaliers,1.5,-145,40%
+Indiana Pacers,5,BLK,C,Jonas Valanciunas,New Orleans Pelicans,0.5,-115,54%
+Denver Nuggets,5,TOV,G,De'Aaron Fox,Sacramento Kings,2.5,124,67%
+Denver Nuggets,5,TOV,G,Malik Monk,Sacramento Kings,1.5,135,67%
+Los Angeles Lakers,1,BLK,G,James Harden,LA Clippers,0.5,-110,74%
+Minnesota Timberwolves,4,FG3M,G,Jordan Goodwin,Memphis Grizzlies,0.5,114,94%
+Dallas Mavericks,3,FG3M,G,Ochai Agbaji,Toronto Raptors,0.5,100,60%
+Dallas Mavericks,3,FG3M,G,Immanuel Quickley,Toronto Raptors,2.5,100,60%
+Los Angeles Lakers,3,STL,F,Kawhi Leonard,LA Clippers,1.5,114,67%
+Denver Nuggets,2,FG3M,F,Harrison Barnes,Sacramento Kings,1.5,-150,60%
+Denver Nuggets,2,FG3M,F,Keegan Murray,Sacramento Kings,1.5,-105,40%
+Indiana Pacers,3,FG3M,F,Herbert Jones,New Orleans Pelicans,1.5,-150,74%
+Indiana Pacers,3,FG3M,F,Naji Marshall,New Orleans Pelicans,0.5,-130,60%

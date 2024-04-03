@@ -1,0 +1,17 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L1 Hit Rate,Correct
+Brooklyn Nets,26,REB,G,Buddy Hield,Philadelphia 76ers,3.5,100,40%,False
+Brooklyn Nets,26,REB,G,Buddy Hield,Philadelphia 76ers,3.5,112,40%,False
+Brooklyn Nets,26,REB,G,Tyrese Maxey,Philadelphia 76ers,3.5,-142,40%,False
+Brooklyn Nets,26,REB,G,Tyrese Maxey,Philadelphia 76ers,3.5,-140,40%,False
+Charlotte Hornets,28,AST,G,Jalen Suggs,Orlando Magic,2.5,-140,46%,True
+Charlotte Hornets,28,AST,G,Jalen Suggs,Orlando Magic,2.5,-132,46%,True
+Dallas Mavericks,29,AST,F,Pascal Siakam,Indiana Pacers,3.5,-125,46%,True
+Dallas Mavericks,29,AST,F,Pascal Siakam,Indiana Pacers,3.5,-110,46%,True
+New York Knicks,26,AST,F,Jalen Johnson,Atlanta Hawks,3.5,114,60%,True
+New York Knicks,26,AST,F,Jalen Johnson,Atlanta Hawks,3.5,120,60%,True
+Toronto Raptors,30,PTS,F,Brandon Ingram,New Orleans Pelicans,21.5,-130,53%,False
+Toronto Raptors,30,PTS,F,Brandon Ingram,New Orleans Pelicans,21.5,-113,53%,False
+Toronto Raptors,30,PTS,F,Herbert Jones,New Orleans Pelicans,10.5,-120,60%,True
+Toronto Raptors,30,PTS,F,Herbert Jones,New Orleans Pelicans,10.5,-111,60%,True
+Toronto Raptors,30,PTS,F,Zion Williamson,New Orleans Pelicans,22.5,-115,46%,False
+Toronto Raptors,30,PTS,F,Zion Williamson,New Orleans Pelicans,22.5,-110,46%,False

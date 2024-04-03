@@ -1,0 +1,64 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Cleveland Cavaliers,2,PTS,C,Nick Richards,Charlotte Hornets,9.5,-115,60%
+Cleveland Cavaliers,2,PTS,C,Nick Richards,Charlotte Hornets,9.5,100,60%
+Indiana Pacers,5,PTS,C,Ivica Zubac,LA Clippers,10.5,-140,47%
+Indiana Pacers,5,PTS,C,Ivica Zubac,LA Clippers,10.5,-118,47%
+Indiana Pacers,5,PTS,C,Ivica Zubac,LA Clippers,9.5,-104,54%
+Indiana Pacers,5,PTS,C,Ivica Zubac,LA Clippers,9.5,105,54%
+Sacramento Kings,3,PTS,C,Mo Bamba,Philadelphia 76ers,6.5,-125,40%
+Sacramento Kings,3,PTS,C,Mo Bamba,Philadelphia 76ers,6.5,-125,40%
+Sacramento Kings,4,REB,C,Mo Bamba,Philadelphia 76ers,6.5,-145,34%
+Sacramento Kings,4,REB,C,Mo Bamba,Philadelphia 76ers,5.5,104,47%
+San Antonio Spurs,5,REB,C,Jusuf Nurkic,Phoenix Suns,11.5,-125,60%
+San Antonio Spurs,5,REB,C,Jusuf Nurkic,Phoenix Suns,11.5,-115,60%
+Washington Wizards,1,AST,C,Nikola Vucevic,Chicago Bulls,2.5,110,54%
+Washington Wizards,1,AST,C,Nikola Vucevic,Chicago Bulls,2.5,124,54%
+Denver Nuggets,3,PTS,G,Desmond Bane,Memphis Grizzlies,21.5,-120,94%
+Denver Nuggets,3,PTS,G,Desmond Bane,Memphis Grizzlies,20.5,-115,94%
+Denver Nuggets,3,PTS,G,Desmond Bane,Memphis Grizzlies,20.5,-110,94%
+New York Knicks,4,PTS,G,Cade Cunningham,Detroit Pistons,20.5,-125,67%
+New York Knicks,4,PTS,G,Cade Cunningham,Detroit Pistons,19.5,-111,67%
+New York Knicks,4,PTS,G,Cade Cunningham,Detroit Pistons,19.5,-105,67%
+New York Knicks,4,PTS,G,Jaden Ivey,Detroit Pistons,15.5,-125,47%
+New York Knicks,4,PTS,G,Jaden Ivey,Detroit Pistons,14.5,-110,60%
+New York Knicks,4,PTS,G,Jaden Ivey,Detroit Pistons,14.5,-108,60%
+Sacramento Kings,1,PTS,G,Tyrese Maxey,Philadelphia 76ers,26.5,-125,67%
+Sacramento Kings,1,PTS,G,Tyrese Maxey,Philadelphia 76ers,26.5,-120,67%
+Sacramento Kings,1,PTS,G,Tyrese Maxey,Philadelphia 76ers,25.5,-104,67%
+Philadelphia 76ers,2,PTS,G,Keon Ellis,Sacramento Kings,6.5,-120,47%
+Philadelphia 76ers,2,PTS,G,Keon Ellis,Sacramento Kings,6.5,-110,47%
+Philadelphia 76ers,2,PTS,G,De'Aaron Fox,Sacramento Kings,25.5,-110,54%
+Philadelphia 76ers,2,PTS,G,De'Aaron Fox,Sacramento Kings,24.5,-102,60%
+Philadelphia 76ers,2,PTS,G,Malik Monk,Sacramento Kings,16.5,-125,60%
+Boston Celtics,3,REB,G,Bogdan Bogdanovic,Atlanta Hawks,3.5,-150,47%
+Boston Celtics,3,REB,G,Bogdan Bogdanovic,Atlanta Hawks,3.5,-145,47%
+Boston Celtics,3,REB,G,Vit Krejci,Atlanta Hawks,2.5,130,54%
+Boston Celtics,3,REB,G,Dejounte Murray,Atlanta Hawks,5.5,-120,60%
+Boston Celtics,3,REB,G,Dejounte Murray,Atlanta Hawks,5.5,-111,60%
+Portland Trail Blazers,1,REB,G,Jalen Green,Houston Rockets,6.5,-148,40%
+Portland Trail Blazers,1,REB,G,Jalen Green,Houston Rockets,6.5,-145,40%
+Portland Trail Blazers,1,REB,G,Jalen Green,Houston Rockets,5.5,106,47%
+Phoenix Suns,4,REB,G,Tre Jones,San Antonio Spurs,3.5,-135,60%
+Phoenix Suns,4,REB,G,Tre Jones,San Antonio Spurs,3.5,-125,60%
+Houston Rockets,1,AST,G,Anfernee Simons,Portland Trail Blazers,4.5,-105,74%
+Houston Rockets,1,AST,G,Anfernee Simons,Portland Trail Blazers,4.5,-102,74%
+Indiana Pacers,3,AST,G,James Harden,LA Clippers,9.5,-148,54%
+Indiana Pacers,3,AST,G,James Harden,LA Clippers,9.5,-140,54%
+Indiana Pacers,3,AST,G,James Harden,LA Clippers,8.5,102,67%
+New York Knicks,5,AST,G,Cade Cunningham,Detroit Pistons,6.5,-135,80%
+New York Knicks,5,AST,G,Cade Cunningham,Detroit Pistons,6.5,-130,80%
+New York Knicks,5,AST,G,Jaden Ivey,Detroit Pistons,2.5,124,74%
+New York Knicks,5,AST,G,Jaden Ivey,Detroit Pistons,2.5,130,74%
+Sacramento Kings,2,AST,G,Tyrese Maxey,Philadelphia 76ers,5.5,-140,54%
+Sacramento Kings,2,AST,G,Tyrese Maxey,Philadelphia 76ers,5.5,-125,54%
+Philadelphia 76ers,4,AST,G,De'Aaron Fox,Sacramento Kings,5.5,-120,60%
+Philadelphia 76ers,4,AST,G,De'Aaron Fox,Sacramento Kings,5.5,-115,60%
+Philadelphia 76ers,4,AST,G,Malik Monk,Sacramento Kings,4.5,100,74%
+Cleveland Cavaliers,2,REB,F,Miles Bridges,Charlotte Hornets,7.5,-136,60%
+Cleveland Cavaliers,2,REB,F,Miles Bridges,Charlotte Hornets,7.5,-130,60%
+Cleveland Cavaliers,2,REB,F,Brandon Miller,Charlotte Hornets,4.5,-138,54%
+Indiana Pacers,5,REB,F,Paul George,LA Clippers,5.5,-140,47%
+Indiana Pacers,5,REB,F,Paul George,LA Clippers,5.5,-138,47%
+Indiana Pacers,5,REB,F,Paul George,LA Clippers,4.5,118,74%
+Indiana Pacers,5,REB,F,Kawhi Leonard,LA Clippers,6.5,-145,54%
+Indiana Pacers,5,REB,F,Kawhi Leonard,LA Clippers,5.5,112,60%

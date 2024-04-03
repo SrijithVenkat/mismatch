@@ -1,0 +1,21 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L1 Hit Rate,Correct
+Dallas Mavericks,5,PTS,F,Pascal Siakam,Indiana Pacers,22.5,-140,40%,True
+Dallas Mavericks,5,PTS,F,Pascal Siakam,Indiana Pacers,21.5,-120,47%,True
+Denver Nuggets,1,PTS,F,Kevin Durant,Phoenix Suns,28.5,-120,27%,False
+Denver Nuggets,1,PTS,F,Kevin Durant,Phoenix Suns,27.5,-110,47%,False
+Denver Nuggets,2,AST,F,Kevin Durant,Phoenix Suns,4.5,120,60%,False
+Denver Nuggets,2,AST,F,Kevin Durant,Phoenix Suns,4.5,130,60%,False
+New York Knicks,1,PTS,C,Clint Capela,Atlanta Hawks,9.5,-125,74%,False
+New York Knicks,1,PTS,C,Clint Capela,Atlanta Hawks,9.5,-125,74%,False
+New York Knicks,2,REB,C,Clint Capela,Atlanta Hawks,9.5,-102,80%,True
+New York Knicks,2,REB,C,Clint Capela,Atlanta Hawks,9.5,100,80%,True
+New York Knicks,3,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,16.5,-118,40%,True
+New York Knicks,3,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,15.5,110,47%,True
+New York Knicks,3,PTS,G,Dejounte Murray,Atlanta Hawks,22.5,-122,54%,True
+New York Knicks,3,PTS,G,Dejounte Murray,Atlanta Hawks,22.5,-115,54%,True
+New York Knicks,2,AST,G,Bogdan Bogdanovic,Atlanta Hawks,2.5,120,74%,False
+New York Knicks,2,AST,G,Bogdan Bogdanovic,Atlanta Hawks,2.5,120,74%,False
+New York Knicks,2,AST,G,Dejounte Murray,Atlanta Hawks,8.5,-150,54%,True
+New York Knicks,2,AST,G,Dejounte Murray,Atlanta Hawks,7.5,110,54%,True
+New York Knicks,4,REB,F,Jalen Johnson,Atlanta Hawks,8.5,100,67%,False
+New York Knicks,4,REB,F,Jalen Johnson,Atlanta Hawks,8.5,100,67%,False

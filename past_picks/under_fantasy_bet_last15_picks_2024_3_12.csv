@@ -1,0 +1,36 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+New York Knicks,4,PTS,G,Kyle Lowry,Philadelphia 76ers,7.5,-128,80%
+New York Knicks,4,PTS,G,Kyle Lowry,Philadelphia 76ers,7.5,-125,80%
+New York Knicks,4,PTS,G,Kyle Lowry,Philadelphia 76ers,6.5,100,80%
+New York Knicks,4,PTS,G,Tyrese Maxey,Philadelphia 76ers,25.5,-110,67%
+New York Knicks,4,PTS,G,Tyrese Maxey,Philadelphia 76ers,25.5,-102,67%
+LA Clippers,4,REB,G,Anthony Edwards,Minnesota Timberwolves,5.5,-105,47%
+LA Clippers,4,REB,G,Anthony Edwards,Minnesota Timberwolves,5.5,-104,47%
+Oklahoma City Thunder,3,REB,G,Tyrese Haliburton,Indiana Pacers,4.5,-150,27%
+Oklahoma City Thunder,3,REB,G,Tyrese Haliburton,Indiana Pacers,3.5,110,34%
+Oklahoma City Thunder,3,REB,G,Tyrese Haliburton,Indiana Pacers,3.5,124,34%
+Sacramento Kings,2,REB,G,Malik Beasley,Milwaukee Bucks,3.5,-145,54%
+Sacramento Kings,2,REB,G,Damian Lillard,Milwaukee Bucks,4.5,-140,60%
+Oklahoma City Thunder,3,AST,G,Tyrese Haliburton,Indiana Pacers,10.5,-140,54%
+Oklahoma City Thunder,3,AST,G,Tyrese Haliburton,Indiana Pacers,9.5,114,60%
+Oklahoma City Thunder,3,AST,G,Tyrese Haliburton,Indiana Pacers,9.5,116,60%
+Indiana Pacers,1,AST,G,Josh Giddey,Oklahoma City Thunder,4.5,100,34%
+Indiana Pacers,1,AST,G,Josh Giddey,Oklahoma City Thunder,4.5,108,34%
+Indiana Pacers,1,AST,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,6.5,-120,47%
+Indiana Pacers,1,AST,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,6.5,-105,47%
+Oklahoma City Thunder,5,PTS,F,Pascal Siakam,Indiana Pacers,20.5,-125,47%
+Oklahoma City Thunder,5,PTS,F,Pascal Siakam,Indiana Pacers,20.5,-125,47%
+Milwaukee Bucks,2,PTS,F,Harrison Barnes,Sacramento Kings,11.5,-130,40%
+Milwaukee Bucks,2,PTS,F,Harrison Barnes,Sacramento Kings,10.5,-111,47%
+Milwaukee Bucks,2,PTS,F,Harrison Barnes,Sacramento Kings,10.5,100,47%
+Milwaukee Bucks,2,PTS,F,Keegan Murray,Sacramento Kings,13.5,-125,34%
+Milwaukee Bucks,2,PTS,F,Keegan Murray,Sacramento Kings,13.5,-120,34%
+Milwaukee Bucks,2,PTS,F,Keegan Murray,Sacramento Kings,12.5,100,47%
+Sacramento Kings,2,REB,F,Giannis Antetokounmpo,Milwaukee Bucks,12.5,-140,40%
+Sacramento Kings,2,REB,F,Giannis Antetokounmpo,Milwaukee Bucks,11.5,-108,47%
+Sacramento Kings,2,REB,F,Giannis Antetokounmpo,Milwaukee Bucks,11.5,105,47%
+Milwaukee Bucks,3,REB,F,Harrison Barnes,Sacramento Kings,2.5,-105,34%
+Milwaukee Bucks,3,REB,F,Keegan Murray,Sacramento Kings,5.5,-140,27%
+Milwaukee Bucks,3,REB,F,Keegan Murray,Sacramento Kings,4.5,118,54%
+Sacramento Kings,2,AST,F,Giannis Antetokounmpo,Milwaukee Bucks,6.5,-125,47%
+Sacramento Kings,2,AST,F,Giannis Antetokounmpo,Milwaukee Bucks,6.5,-115,47%

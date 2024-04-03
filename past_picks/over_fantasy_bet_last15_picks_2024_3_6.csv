@@ -1,0 +1,47 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Houston Rockets,26,PTS,C,Ivica Zubac,LA Clippers,9.5,-115,33%
+Houston Rockets,26,PTS,C,Ivica Zubac,LA Clippers,10.5,102,26%
+Utah Jazz,30,PTS,C,Nikola Vucevic,Chicago Bulls,19.5,-115,66%
+Utah Jazz,30,PTS,C,Nikola Vucevic,Chicago Bulls,20.5,-111,60%
+Cleveland Cavaliers,29,REB,C,Clint Capela,Atlanta Hawks,9.5,-106,33%
+Cleveland Cavaliers,29,REB,C,Clint Capela,Atlanta Hawks,9.5,100,33%
+Houston Rockets,30,PTS,G,James Harden,LA Clippers,17.5,-120,60%
+Houston Rockets,30,PTS,G,James Harden,LA Clippers,18.5,-113,60%
+LA Clippers,29,PTS,G,Jalen Green,Houston Rockets,19.5,-113,40%
+LA Clippers,29,PTS,G,Jalen Green,Houston Rockets,19.5,-110,40%
+Washington Wizards,28,PTS,G,Gary Harris,Orlando Magic,6.5,-138,53%
+Washington Wizards,28,PTS,G,Gary Harris,Orlando Magic,6.5,-125,53%
+Washington Wizards,28,PTS,G,Jalen Suggs,Orlando Magic,9.5,-130,53%
+Washington Wizards,28,PTS,G,Jalen Suggs,Orlando Magic,9.5,-120,53%
+Orlando Magic,26,PTS,G,Bilal Coulibaly,Washington Wizards,8.5,-120,26%
+Orlando Magic,26,PTS,G,Bilal Coulibaly,Washington Wizards,8.5,-113,26%
+Orlando Magic,26,PTS,G,Tyus Jones,Washington Wizards,10.5,-130,60%
+Orlando Magic,26,PTS,G,Tyus Jones,Washington Wizards,11.5,102,60%
+Atlanta Hawks,29,REB,G,Darius Garland,Cleveland Cavaliers,2.5,-136,33%
+Atlanta Hawks,29,REB,G,Darius Garland,Cleveland Cavaliers,2.5,-125,33%
+Memphis Grizzlies,30,REB,G,Buddy Hield,Philadelphia 76ers,3.5,-142,33%
+Memphis Grizzlies,30,REB,G,Kyle Lowry,Philadelphia 76ers,3.5,-148,20%
+Utah Jazz,30,AST,G,Alex Caruso,Chicago Bulls,3.5,110,33%
+Utah Jazz,30,AST,G,Alex Caruso,Chicago Bulls,3.5,114,33%
+Utah Jazz,30,AST,G,Ayo Dosunmu,Chicago Bulls,4.5,-115,53%
+Utah Jazz,30,AST,G,Ayo Dosunmu,Chicago Bulls,4.5,100,53%
+Utah Jazz,30,AST,G,Coby White,Chicago Bulls,5.5,-142,66%
+Utah Jazz,30,AST,G,Coby White,Chicago Bulls,5.5,-130,66%
+Cleveland Cavaliers,28,PTS,F,Jalen Johnson,Atlanta Hawks,16.5,-110,53%
+Cleveland Cavaliers,28,PTS,F,Jalen Johnson,Atlanta Hawks,16.5,-104,53%
+Golden State Warriors,26,PTS,F,Giannis Antetokounmpo,Milwaukee Bucks,31.5,-120,46%
+Golden State Warriors,26,PTS,F,Giannis Antetokounmpo,Milwaukee Bucks,31.5,-113,46%
+Los Angeles Lakers,27,PTS,F,Harrison Barnes,Sacramento Kings,10.5,-115,46%
+Los Angeles Lakers,27,PTS,F,Harrison Barnes,Sacramento Kings,10.5,-115,46%
+Los Angeles Lakers,27,PTS,F,Keegan Murray,Sacramento Kings,13.5,-110,40%
+Los Angeles Lakers,27,PTS,F,Keegan Murray,Sacramento Kings,13.5,-106,40%
+Golden State Warriors,27,REB,F,Giannis Antetokounmpo,Milwaukee Bucks,11.5,-125,33%
+Golden State Warriors,27,REB,F,Giannis Antetokounmpo,Milwaukee Bucks,11.5,-113,33%
+Los Angeles Lakers,29,REB,F,Harrison Barnes,Sacramento Kings,2.5,-142,46%
+Los Angeles Lakers,29,REB,F,Harrison Barnes,Sacramento Kings,2.5,-125,46%
+Los Angeles Lakers,29,REB,F,Keegan Murray,Sacramento Kings,5.5,106,26%
+Los Angeles Lakers,29,REB,F,Keegan Murray,Sacramento Kings,5.5,110,26%
+Memphis Grizzlies,30,REB,F,Tobias Harris,Philadelphia 76ers,6.5,-130,40%
+Memphis Grizzlies,30,REB,F,Tobias Harris,Philadelphia 76ers,6.5,-122,40%
+Washington Wizards,28,AST,F,Paolo Banchero,Orlando Magic,5.5,100,53%
+Washington Wizards,28,AST,F,Paolo Banchero,Orlando Magic,5.5,100,53%

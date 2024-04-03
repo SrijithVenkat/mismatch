@@ -1,0 +1,43 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Cleveland Cavaliers,2,PTS,C,Rudy Gobert,Minnesota Timberwolves,15.5,-130,60%
+Cleveland Cavaliers,2,PTS,C,Rudy Gobert,Minnesota Timberwolves,14.5,-104,60%
+Minnesota Timberwolves,3,AST,C,Jarrett Allen,Cleveland Cavaliers,2.5,-125,47%
+Minnesota Timberwolves,3,AST,C,Jarrett Allen,Cleveland Cavaliers,2.5,114,47%
+Minnesota Timberwolves,4,PTS,G,Darius Garland,Cleveland Cavaliers,22.5,-115,14%
+Minnesota Timberwolves,4,PTS,G,Darius Garland,Cleveland Cavaliers,22.5,-111,14%
+New York Knicks,3,PTS,G,Gary Harris,Orlando Magic,7.5,100,67%
+New York Knicks,3,PTS,G,Jalen Suggs,Orlando Magic,9.5,100,67%
+New York Knicks,3,PTS,G,Jalen Suggs,Orlando Magic,9.5,102,67%
+New Orleans Pelicans,1,PTS,G,Buddy Hield,Philadelphia 76ers,15.5,-113,34%
+New Orleans Pelicans,1,PTS,G,Buddy Hield,Philadelphia 76ers,15.5,-110,34%
+New Orleans Pelicans,1,PTS,G,Kyle Lowry,Philadelphia 76ers,10.5,100,80%
+Portland Trail Blazers,5,PTS,G,Jalen Green,Houston Rockets,18.5,-113,34%
+Portland Trail Blazers,5,PTS,G,Jalen Green,Houston Rockets,18.5,-110,34%
+Orlando Magic,2,REB,G,Jalen Brunson,New York Knicks,3.5,-146,54%
+Orlando Magic,2,REB,G,Jalen Brunson,New York Knicks,3.5,-145,54%
+New Orleans Pelicans,3,REB,G,Buddy Hield,Philadelphia 76ers,3.5,-120,40%
+New Orleans Pelicans,3,REB,G,Buddy Hield,Philadelphia 76ers,3.5,-113,40%
+New Orleans Pelicans,3,REB,G,Kyle Lowry,Philadelphia 76ers,3.5,-145,80%
+Portland Trail Blazers,5,REB,G,Jalen Green,Houston Rockets,5.5,-140,27%
+Portland Trail Blazers,5,REB,G,Jalen Green,Houston Rockets,5.5,-135,27%
+Memphis Grizzlies,3,AST,G,Bogdan Bogdanovic,Atlanta Hawks,3.5,-136,54%
+Memphis Grizzlies,3,AST,G,Bogdan Bogdanovic,Atlanta Hawks,3.5,-130,54%
+Memphis Grizzlies,3,AST,G,Dejounte Murray,Atlanta Hawks,8.5,-120,47%
+Memphis Grizzlies,3,AST,G,Dejounte Murray,Atlanta Hawks,8.5,-110,47%
+New York Knicks,2,AST,G,Jalen Suggs,Orlando Magic,2.5,-115,60%
+New York Knicks,2,AST,G,Jalen Suggs,Orlando Magic,2.5,100,60%
+Houston Rockets,5,AST,G,Anfernee Simons,Portland Trail Blazers,6.5,-140,40%
+Houston Rockets,5,AST,G,Anfernee Simons,Portland Trail Blazers,6.5,-138,40%
+Milwaukee Bucks,2,PTS,F,Rui Hachimura,Los Angeles Lakers,14.5,-128,54%
+Milwaukee Bucks,2,PTS,F,Rui Hachimura,Los Angeles Lakers,14.5,-120,54%
+Orlando Magic,4,PTS,F,Precious Achiuwa,New York Knicks,9.5,-120,74%
+Houston Rockets,3,PTS,F,Jerami Grant,Portland Trail Blazers,20.5,-125,54%
+Houston Rockets,3,PTS,F,Jerami Grant,Portland Trail Blazers,20.5,-115,54%
+New York Knicks,4,REB,F,Paolo Banchero,Orlando Magic,6.5,-118,40%
+New York Knicks,4,REB,F,Paolo Banchero,Orlando Magic,6.5,-110,40%
+New York Knicks,4,REB,F,Franz Wagner,Orlando Magic,4.5,104,54%
+New York Knicks,4,REB,F,Franz Wagner,Orlando Magic,4.5,114,54%
+Orlando Magic,2,REB,F,Precious Achiuwa,New York Knicks,6.5,100,67%
+Oklahoma City Thunder,5,AST,F,Jimmy Butler,Miami Heat,5.5,-105,74%
+Oklahoma City Thunder,5,AST,F,Jimmy Butler,Miami Heat,5.5,112,74%
+Oklahoma City Thunder,5,AST,F,Duncan Robinson,Miami Heat,3.5,-113,54%

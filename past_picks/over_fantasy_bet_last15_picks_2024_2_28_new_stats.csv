@@ -1,0 +1,19 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Indiana Pacers,30,TOV,C,Jonas Valanciunas,New Orleans Pelicans,1.5,135,33%
+Memphis Grizzlies,28,BLK,C,Rudy Gobert,Minnesota Timberwolves,2.5,120,26%
+Cleveland Cavaliers,27,STL,G,Jevon Carter,Chicago Bulls,0.5,-135,40%
+Cleveland Cavaliers,27,STL,G,Ayo Dosunmu,Chicago Bulls,1.5,150,40%
+Memphis Grizzlies,26,TOV,G,Anthony Edwards,Minnesota Timberwolves,3.5,130,40%
+Memphis Grizzlies,26,TOV,G,Monte Morris,Minnesota Timberwolves,0.5,100,20%
+New Orleans Pelicans,26,FG3M,G,Tyrese Haliburton,Indiana Pacers,2.5,-140,33%
+LA Clippers,29,FG3M,G,Austin Reaves,Los Angeles Lakers,1.5,-130,80%
+LA Clippers,29,FG3M,G,D'Angelo Russell,Los Angeles Lakers,2.5,-115,73%
+Los Angeles Lakers,30,FG3M,G,James Harden,LA Clippers,3.5,100,40%
+Los Angeles Lakers,30,FG3M,G,Norman Powell,LA Clippers,2.5,-150,46%
+Los Angeles Lakers,30,FG3M,G,Russell Westbrook,LA Clippers,0.5,-145,40%
+LA Clippers,29,STL,F,Rui Hachimura,Los Angeles Lakers,0.5,-150,46%
+Chicago Bulls,27,TOV,F,Georges Niang,Cleveland Cavaliers,0.5,110,40%
+Denver Nuggets,29,TOV,F,Harrison Barnes,Sacramento Kings,0.5,-115,53%
+Denver Nuggets,29,TOV,F,Trey Lyles,Sacramento Kings,0.5,-105,46%
+New Orleans Pelicans,30,TOV,F,Pascal Siakam,Indiana Pacers,1.5,-105,40%
+Chicago Bulls,26,FG3M,F,Georges Niang,Cleveland Cavaliers,1.5,124,46%

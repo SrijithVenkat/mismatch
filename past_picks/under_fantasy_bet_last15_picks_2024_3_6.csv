@@ -1,0 +1,58 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Atlanta Hawks,4,PTS,C,Jarrett Allen,Cleveland Cavaliers,18.5,-122,47%
+Atlanta Hawks,4,PTS,C,Jarrett Allen,Cleveland Cavaliers,17.5,105,67%
+Cleveland Cavaliers,2,PTS,C,Clint Capela,Atlanta Hawks,10.5,-130,74%
+Cleveland Cavaliers,2,PTS,C,Clint Capela,Atlanta Hawks,9.5,102,74%
+Houston Rockets,5,REB,C,Ivica Zubac,LA Clippers,8.5,-108,67%
+Houston Rockets,5,REB,C,Ivica Zubac,LA Clippers,8.5,-105,67%
+Portland Trail Blazers,5,PTS,G,Luguentz Dort,Oklahoma City Thunder,9.5,-108,47%
+Portland Trail Blazers,5,PTS,G,Luguentz Dort,Oklahoma City Thunder,9.5,-105,47%
+Portland Trail Blazers,5,PTS,G,Josh Giddey,Oklahoma City Thunder,10.5,-115,47%
+Portland Trail Blazers,5,PTS,G,Josh Giddey,Oklahoma City Thunder,9.5,102,60%
+Portland Trail Blazers,5,PTS,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,31.5,-120,40%
+Portland Trail Blazers,5,PTS,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,31.5,-115,40%
+Milwaukee Bucks,4,REB,G,Stephen Curry,Golden State Warriors,4.5,-150,47%
+Milwaukee Bucks,4,REB,G,Stephen Curry,Golden State Warriors,3.5,124,54%
+Milwaukee Bucks,4,REB,G,Brandin Podziemski,Golden State Warriors,5.5,110,74%
+Milwaukee Bucks,4,REB,G,Brandin Podziemski,Golden State Warriors,5.5,112,74%
+Portland Trail Blazers,5,REB,G,Luguentz Dort,Oklahoma City Thunder,3.5,108,47%
+Portland Trail Blazers,5,REB,G,Luguentz Dort,Oklahoma City Thunder,3.5,110,47%
+Portland Trail Blazers,5,REB,G,Josh Giddey,Oklahoma City Thunder,6.5,-145,27%
+Portland Trail Blazers,5,REB,G,Josh Giddey,Oklahoma City Thunder,5.5,-102,40%
+Portland Trail Blazers,5,REB,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,6.5,-140,47%
+Portland Trail Blazers,5,REB,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,5.5,106,60%
+Chicago Bulls,1,REB,G,Keyonte George,Utah Jazz,3.5,-142,27%
+Chicago Bulls,1,REB,G,Keyonte George,Utah Jazz,3.5,-135,27%
+Chicago Bulls,1,REB,G,Collin Sexton,Utah Jazz,2.5,128,40%
+Orlando Magic,2,REB,G,Bilal Coulibaly,Washington Wizards,4.5,-140,47%
+Orlando Magic,2,REB,G,Bilal Coulibaly,Washington Wizards,4.5,-125,47%
+Orlando Magic,2,REB,G,Tyus Jones,Washington Wizards,2.5,-111,40%
+Orlando Magic,2,REB,G,Tyus Jones,Washington Wizards,2.5,105,40%
+Memphis Grizzlies,3,AST,G,Buddy Hield,Philadelphia 76ers,4.5,-120,47%
+Memphis Grizzlies,3,AST,G,Buddy Hield,Philadelphia 76ers,4.5,-115,47%
+Memphis Grizzlies,3,AST,G,Kyle Lowry,Philadelphia 76ers,5.5,-128,74%
+Memphis Grizzlies,3,AST,G,Kyle Lowry,Philadelphia 76ers,5.5,-120,74%
+Milwaukee Bucks,2,PTS,F,Draymond Green,Golden State Warriors,7.5,-140,47%
+Milwaukee Bucks,2,PTS,F,Draymond Green,Golden State Warriors,6.5,100,67%
+Milwaukee Bucks,2,PTS,F,Jonathan Kuminga,Golden State Warriors,16.5,-120,54%
+Milwaukee Bucks,2,PTS,F,Jonathan Kuminga,Golden State Warriors,16.5,-113,54%
+Milwaukee Bucks,2,PTS,F,Andrew Wiggins,Golden State Warriors,12.5,-122,74%
+Milwaukee Bucks,2,PTS,F,Andrew Wiggins,Golden State Warriors,12.5,-120,74%
+Houston Rockets,3,PTS,F,Paul George,LA Clippers,21.5,-122,47%
+Houston Rockets,3,PTS,F,Paul George,LA Clippers,21.5,-120,47%
+Houston Rockets,3,PTS,F,Kawhi Leonard,LA Clippers,25.5,-125,47%
+Houston Rockets,3,PTS,F,Kawhi Leonard,LA Clippers,25.5,-115,47%
+Orlando Magic,4,PTS,F,Deni Avdija,Washington Wizards,15.5,-130,60%
+Orlando Magic,4,PTS,F,Deni Avdija,Washington Wizards,14.5,100,74%
+Orlando Magic,4,PTS,F,Kyle Kuzma,Washington Wizards,21.5,-113,67%
+Orlando Magic,4,PTS,F,Kyle Kuzma,Washington Wizards,21.5,-105,67%
+Orlando Magic,2,REB,F,Deni Avdija,Washington Wizards,8.5,-142,54%
+Orlando Magic,2,REB,F,Deni Avdija,Washington Wizards,8.5,-130,54%
+Orlando Magic,2,REB,F,Kyle Kuzma,Washington Wizards,7.5,-135,40%
+Orlando Magic,2,REB,F,Kyle Kuzma,Washington Wizards,6.5,112,47%
+Golden State Warriors,3,AST,F,Giannis Antetokounmpo,Milwaukee Bucks,6.5,-132,47%
+Golden State Warriors,3,AST,F,Giannis Antetokounmpo,Milwaukee Bucks,6.5,-125,47%
+Orlando Magic,4,AST,F,Deni Avdija,Washington Wizards,3.5,-135,47%
+Orlando Magic,4,AST,F,Deni Avdija,Washington Wizards,3.5,-122,47%
+Orlando Magic,4,AST,F,Kyle Kuzma,Washington Wizards,3.5,-135,47%
+Orlando Magic,4,AST,F,Kyle Kuzma,Washington Wizards,3.5,-132,47%

@@ -1,0 +1,41 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Houston Rockets,30,PTS,G,Jalen Green,Washington Wizards,22.5,-122,33%
+Houston Rockets,30,PTS,G,Jalen Green,Washington Wizards,22.5,-115,33%
+Houston Rockets,30,PTS,G,Jalen Green,Washington Wizards,23.5,-108,26%
+Houston Rockets,30,PTS,G,Tyus Jones,Washington Wizards,10.5,-110,53%
+Houston Rockets,30,PTS,G,Tyus Jones,Washington Wizards,10.5,100,53%
+Dallas Mavericks,29,PTS,G,Luguentz Dort,Oklahoma City Thunder,11.5,-111,46%
+Dallas Mavericks,29,PTS,G,Luguentz Dort,Oklahoma City Thunder,11.5,100,46%
+Dallas Mavericks,29,PTS,G,Luguentz Dort,Oklahoma City Thunder,12.5,100,46%
+Dallas Mavericks,29,PTS,G,Josh Giddey,Oklahoma City Thunder,11.5,-120,46%
+Dallas Mavericks,29,PTS,G,Josh Giddey,Oklahoma City Thunder,11.5,-105,46%
+Dallas Mavericks,29,PTS,G,Josh Giddey,Oklahoma City Thunder,12.5,-102,33%
+Dallas Mavericks,29,PTS,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,30.5,-120,60%
+Dallas Mavericks,29,PTS,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,31.5,-115,40%
+Houston Rockets,26,REB,G,Jalen Green,Washington Wizards,5.5,-130,33%
+Houston Rockets,26,REB,G,Jalen Green,Washington Wizards,6.5,110,26%
+Houston Rockets,26,REB,G,Jalen Green,Washington Wizards,6.5,116,26%
+Houston Rockets,26,REB,G,Tyus Jones,Washington Wizards,2.5,-140,46%
+Dallas Mavericks,27,REB,G,Luguentz Dort,Oklahoma City Thunder,3.5,-115,40%
+Dallas Mavericks,27,REB,G,Luguentz Dort,Oklahoma City Thunder,3.5,-104,40%
+Dallas Mavericks,27,REB,G,Josh Giddey,Oklahoma City Thunder,6.5,-130,40%
+Dallas Mavericks,27,REB,G,Josh Giddey,Oklahoma City Thunder,6.5,-118,40%
+Dallas Mavericks,27,REB,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,5.5,-135,46%
+Dallas Mavericks,27,REB,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,5.5,-128,46%
+Dallas Mavericks,29,AST,G,Josh Giddey,Oklahoma City Thunder,3.5,-150,53%
+Dallas Mavericks,29,AST,G,Josh Giddey,Oklahoma City Thunder,4.5,118,26%
+Dallas Mavericks,29,AST,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,5.5,-148,53%
+Dallas Mavericks,29,AST,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,6.5,118,40%
+Dallas Mavericks,29,AST,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,6.5,120,40%
+Chicago Bulls,26,REB,F,Kawhi Leonard,LA Clippers,6.5,-130,33%
+Chicago Bulls,26,REB,F,Kawhi Leonard,LA Clippers,6.5,-120,33%
+Houston Rockets,28,REB,F,Deni Avdija,Washington Wizards,8.5,-130,46%
+Houston Rockets,28,REB,F,Deni Avdija,Washington Wizards,8.5,-115,46%
+Houston Rockets,28,REB,F,Kyle Kuzma,Washington Wizards,7.5,-135,40%
+Houston Rockets,28,REB,F,Kyle Kuzma,Washington Wizards,7.5,-128,40%
+Houston Rockets,27,AST,F,Deni Avdija,Washington Wizards,2.5,-130,46%
+Houston Rockets,27,AST,F,Deni Avdija,Washington Wizards,3.5,138,26%
+Houston Rockets,27,AST,F,Kyle Kuzma,Washington Wizards,3.5,-140,60%
+Houston Rockets,27,AST,F,Kyle Kuzma,Washington Wizards,3.5,-135,60%
+Philadelphia 76ers,26,AST,F,Giannis Antetokounmpo,Milwaukee Bucks,6.5,-130,40%
+Philadelphia 76ers,26,AST,F,Giannis Antetokounmpo,Milwaukee Bucks,6.5,-113,40%

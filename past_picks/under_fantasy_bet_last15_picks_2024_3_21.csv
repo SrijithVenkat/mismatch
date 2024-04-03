@@ -1,0 +1,71 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+New York Knicks,3,PTS,C,Nikola Jokic,Denver Nuggets,26.5,-125,47%
+New York Knicks,3,PTS,C,Nikola Jokic,Denver Nuggets,25.5,-122,54%
+New York Knicks,3,PTS,C,Nikola Jokic,Denver Nuggets,25.5,-110,54%
+Orlando Magic,4,PTS,C,Jonas Valanciunas,New Orleans Pelicans,7.5,-102,47%
+Orlando Magic,4,PTS,C,Jonas Valanciunas,New Orleans Pelicans,7.5,105,47%
+Atlanta Hawks,2,PTS,C,Jusuf Nurkic,Phoenix Suns,10.5,-113,40%
+Atlanta Hawks,2,PTS,C,Jusuf Nurkic,Phoenix Suns,10.5,-105,40%
+Orlando Magic,1,REB,C,Jonas Valanciunas,New Orleans Pelicans,6.5,-105,67%
+Orlando Magic,1,REB,C,Jonas Valanciunas,New Orleans Pelicans,6.5,-104,67%
+New York Knicks,4,PTS,G,Christian Braun,Denver Nuggets,5.5,-140,54%
+New York Knicks,4,PTS,G,Kentavious Caldwell-Pope,Denver Nuggets,9.5,-132,60%
+New York Knicks,4,PTS,G,Kentavious Caldwell-Pope,Denver Nuggets,9.5,-125,60%
+New York Knicks,4,PTS,G,Kentavious Caldwell-Pope,Denver Nuggets,8.5,100,80%
+New York Knicks,4,PTS,G,Kentavious Caldwell-Pope,Denver Nuggets,8.5,108,80%
+New York Knicks,4,PTS,G,Reggie Jackson,Denver Nuggets,5.5,-125,60%
+New York Knicks,4,PTS,G,Jamal Murray,Denver Nuggets,20.5,-106,60%
+New York Knicks,4,PTS,G,Jamal Murray,Denver Nuggets,20.5,-105,60%
+New York Knicks,4,PTS,G,Peyton Watson,Denver Nuggets,5.5,-130,60%
+New Orleans Pelicans,3,PTS,G,Cole Anthony,Orlando Magic,9.5,-130,67%
+New Orleans Pelicans,3,PTS,G,Cole Anthony,Orlando Magic,8.5,-106,74%
+New Orleans Pelicans,3,PTS,G,Cole Anthony,Orlando Magic,8.5,100,74%
+New Orleans Pelicans,3,PTS,G,Gary Harris,Orlando Magic,6.5,-140,74%
+New Orleans Pelicans,3,PTS,G,Gary Harris,Orlando Magic,6.5,-132,74%
+New Orleans Pelicans,3,PTS,G,Jalen Suggs,Orlando Magic,11.5,-125,67%
+New Orleans Pelicans,3,PTS,G,Jalen Suggs,Orlando Magic,11.5,-120,67%
+New Orleans Pelicans,3,PTS,G,Jalen Suggs,Orlando Magic,10.5,110,74%
+Atlanta Hawks,1,PTS,G,Grayson Allen,Phoenix Suns,14.5,-128,54%
+Atlanta Hawks,1,PTS,G,Grayson Allen,Phoenix Suns,14.5,-115,54%
+Atlanta Hawks,1,PTS,G,Grayson Allen,Phoenix Suns,13.5,-104,60%
+Atlanta Hawks,1,PTS,G,Bradley Beal,Phoenix Suns,18.5,-128,74%
+Atlanta Hawks,1,PTS,G,Bradley Beal,Phoenix Suns,17.5,-115,74%
+Atlanta Hawks,1,PTS,G,Bradley Beal,Phoenix Suns,17.5,-106,74%
+Atlanta Hawks,1,PTS,G,Devin Booker,Phoenix Suns,26.5,-122,47%
+Atlanta Hawks,1,PTS,G,Devin Booker,Phoenix Suns,25.5,-115,47%
+Atlanta Hawks,1,PTS,G,Devin Booker,Phoenix Suns,25.5,-102,47%
+Sacramento Kings,2,REB,G,Keon Ellis,Washington Wizards,3.5,-110,47%
+Sacramento Kings,2,REB,G,Keon Ellis,Washington Wizards,3.5,-108,47%
+Sacramento Kings,2,REB,G,De'Aaron Fox,Washington Wizards,4.5,105,74%
+Sacramento Kings,2,REB,G,De'Aaron Fox,Washington Wizards,4.5,112,74%
+Sacramento Kings,2,REB,G,Malik Monk,Washington Wizards,3.5,114,54%
+Sacramento Kings,2,REB,G,Malik Monk,Washington Wizards,3.5,122,54%
+Sacramento Kings,2,REB,G,Jordan Poole,Washington Wizards,2.5,100,67%
+Sacramento Kings,2,REB,G,Jordan Poole,Washington Wizards,2.5,106,67%
+Denver Nuggets,2,AST,G,Jalen Brunson,New York Knicks,5.5,-115,74%
+Denver Nuggets,2,AST,G,Jalen Brunson,New York Knicks,5.5,100,74%
+Denver Nuggets,2,AST,G,Josh Hart,New York Knicks,4.5,110,60%
+Houston Rockets,4,AST,G,Ayo Dosunmu,Chicago Bulls,4.5,100,67%
+Houston Rockets,4,AST,G,Ayo Dosunmu,Chicago Bulls,4.5,102,67%
+Brooklyn Nets,4,PTS,F,Giannis Antetokounmpo,Milwaukee Bucks,31.5,-125,60%
+Brooklyn Nets,4,PTS,F,Giannis Antetokounmpo,Milwaukee Bucks,30.5,-115,60%
+Brooklyn Nets,4,PTS,F,Giannis Antetokounmpo,Milwaukee Bucks,30.5,-106,60%
+Atlanta Hawks,5,REB,F,Kevin Durant,Phoenix Suns,6.5,-115,60%
+Atlanta Hawks,5,REB,F,Kevin Durant,Phoenix Suns,6.5,-110,60%
+Sacramento Kings,2,REB,F,Deni Avdija,Washington Wizards,8.5,-140,74%
+Sacramento Kings,2,REB,F,Deni Avdija,Washington Wizards,8.5,-135,74%
+Sacramento Kings,2,REB,F,Harrison Barnes,Washington Wizards,2.5,130,40%
+Sacramento Kings,2,REB,F,Harrison Barnes,Washington Wizards,2.5,134,40%
+Sacramento Kings,2,REB,F,Kyle Kuzma,Washington Wizards,7.5,-140,47%
+Sacramento Kings,2,REB,F,Kyle Kuzma,Washington Wizards,7.5,-136,47%
+Sacramento Kings,2,REB,F,Keegan Murray,Washington Wizards,6.5,-136,34%
+Sacramento Kings,2,REB,F,Keegan Murray,Washington Wizards,6.5,-130,34%
+Sacramento Kings,2,REB,F,Keegan Murray,Washington Wizards,5.5,120,54%
+Orlando Magic,5,AST,F,Brandon Ingram,New Orleans Pelicans,5.5,-146,67%
+Orlando Magic,5,AST,F,Brandon Ingram,New Orleans Pelicans,5.5,-140,67%
+Orlando Magic,5,AST,F,Zion Williamson,New Orleans Pelicans,4.5,-113,47%
+Orlando Magic,5,AST,F,Zion Williamson,New Orleans Pelicans,4.5,-110,47%
+Sacramento Kings,2,AST,F,Deni Avdija,Washington Wizards,3.5,-120,60%
+Sacramento Kings,2,AST,F,Deni Avdija,Washington Wizards,3.5,102,60%
+Sacramento Kings,2,AST,F,Kyle Kuzma,Washington Wizards,4.5,-130,40%
+Sacramento Kings,2,AST,F,Kyle Kuzma,Washington Wizards,4.5,-122,40%

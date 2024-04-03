@@ -1,0 +1,45 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Toronto Raptors,26,REB,C,Nick Richards,Charlotte Hornets,9.5,-105,40%
+Toronto Raptors,26,REB,C,Nick Richards,Charlotte Hornets,9.5,108,40%
+Philadelphia 76ers,27,PTS,G,Josh Green,Dallas Mavericks,7.5,-135,66%
+Philadelphia 76ers,27,PTS,G,Josh Green,Dallas Mavericks,8.5,-102,60%
+Philadelphia 76ers,27,PTS,G,Kyrie Irving,Dallas Mavericks,26.5,-105,40%
+Philadelphia 76ers,27,PTS,G,Kyrie Irving,Dallas Mavericks,26.5,-105,40%
+LA Clippers,30,PTS,G,Mike Conley,Minnesota Timberwolves,9.5,-130,40%
+LA Clippers,30,PTS,G,Mike Conley,Minnesota Timberwolves,10.5,100,33%
+LA Clippers,30,PTS,G,Anthony Edwards,Minnesota Timberwolves,27.5,-120,60%
+LA Clippers,30,PTS,G,Anthony Edwards,Minnesota Timberwolves,27.5,-115,60%
+Orlando Magic,29,PTS,G,Cade Cunningham,Detroit Pistons,22.5,-106,33%
+Orlando Magic,29,PTS,G,Cade Cunningham,Detroit Pistons,22.5,-105,33%
+Orlando Magic,29,PTS,G,Jaden Ivey,Detroit Pistons,15.5,-115,46%
+Orlando Magic,29,PTS,G,Jaden Ivey,Detroit Pistons,15.5,-111,46%
+Philadelphia 76ers,26,REB,G,Josh Green,Dallas Mavericks,3.5,105,40%
+Philadelphia 76ers,26,REB,G,Josh Green,Dallas Mavericks,3.5,106,40%
+Philadelphia 76ers,26,REB,G,Kyrie Irving,Dallas Mavericks,4.5,-150,53%
+Philadelphia 76ers,26,REB,G,Kyrie Irving,Dallas Mavericks,5.5,118,33%
+San Antonio Spurs,28,REB,G,Tyrese Haliburton,Indiana Pacers,3.5,-110,20%
+San Antonio Spurs,28,REB,G,Tyrese Haliburton,Indiana Pacers,3.5,-106,20%
+Indiana Pacers,27,REB,G,Tre Jones,San Antonio Spurs,3.5,110,40%
+Indiana Pacers,27,REB,G,Tre Jones,San Antonio Spurs,3.5,114,40%
+Philadelphia 76ers,26,AST,G,Kyrie Irving,Dallas Mavericks,4.5,-104,33%
+Philadelphia 76ers,26,AST,G,Kyrie Irving,Dallas Mavericks,4.5,110,33%
+Toronto Raptors,30,AST,G,Tre Mann,Charlotte Hornets,5.5,110,26%
+Toronto Raptors,30,AST,G,Tre Mann,Charlotte Hornets,5.5,120,26%
+Charlotte Hornets,27,AST,G,Immanuel Quickley,Toronto Raptors,6.5,-140,26%
+Charlotte Hornets,27,AST,G,Immanuel Quickley,Toronto Raptors,6.5,-128,26%
+Boston Celtics,26,PTS,F,Jonathan Kuminga,Golden State Warriors,17.5,-118,60%
+Boston Celtics,26,PTS,F,Jonathan Kuminga,Golden State Warriors,18.5,-110,46%
+Cleveland Cavaliers,29,PTS,F,Precious Achiuwa,New York Knicks,9.5,-105,60%
+Cleveland Cavaliers,29,PTS,F,Precious Achiuwa,New York Knicks,9.5,-104,60%
+Toronto Raptors,30,PTS,F,Miles Bridges,Charlotte Hornets,23.5,-120,40%
+Toronto Raptors,30,PTS,F,Miles Bridges,Charlotte Hornets,23.5,-111,40%
+Toronto Raptors,30,PTS,F,Brandon Miller,Charlotte Hornets,19.5,-115,46%
+Toronto Raptors,30,PTS,F,Brandon Miller,Charlotte Hornets,20.5,-110,40%
+Indiana Pacers,28,REB,F,Jeremy Sochan,San Antonio Spurs,5.5,-136,46%
+Indiana Pacers,28,REB,F,Jeremy Sochan,San Antonio Spurs,5.5,-135,46%
+Dallas Mavericks,26,AST,F,Tobias Harris,Philadelphia 76ers,3.5,100,33%
+Dallas Mavericks,26,AST,F,Tobias Harris,Philadelphia 76ers,3.5,116,33%
+Detroit Pistons,30,AST,F,Paolo Banchero,Orlando Magic,5.5,-113,66%
+Detroit Pistons,30,AST,F,Paolo Banchero,Orlando Magic,5.5,-105,66%
+Detroit Pistons,30,AST,F,Franz Wagner,Orlando Magic,4.5,110,66%
+Detroit Pistons,30,AST,F,Franz Wagner,Orlando Magic,4.5,114,66%

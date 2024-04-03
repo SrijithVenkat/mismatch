@@ -1,0 +1,20 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Philadelphia 76ers,2,TOV,C,Nick Richards,Charlotte Hornets,1.5,-150,34%
+Chicago Bulls,4,STL,C,Brook Lopez,Milwaukee Bucks,0.5,-115,60%
+Washington Wizards,2,STL,C,Ivica Zubac,LA Clippers,0.5,-140,60%
+Milwaukee Bucks,2,BLK,C,Nikola Vucevic,Chicago Bulls,0.5,130,60%
+Sacramento Kings,4,BLK,C,Rudy Gobert,Minnesota Timberwolves,1.5,130,67%
+New Orleans Pelicans,5,TOV,G,Tyrese Haliburton,Indiana Pacers,1.5,120,47%
+Dallas Mavericks,1,FG3M,G,Derrick White,Boston Celtics,2.5,-115,60%
+Dallas Mavericks,1,FG3M,G,Derrick White,Boston Celtics,2.5,-113,60%
+Minnesota Timberwolves,5,FG3M,G,De'Aaron Fox,Sacramento Kings,2.5,-140,27%
+Minnesota Timberwolves,5,FG3M,G,De'Aaron Fox,Sacramento Kings,2.5,-138,27%
+Sacramento Kings,3,FG3M,G,Mike Conley,Minnesota Timberwolves,1.5,145,60%
+Sacramento Kings,3,FG3M,G,Anthony Edwards,Minnesota Timberwolves,2.5,-120,67%
+Sacramento Kings,3,FG3M,G,Anthony Edwards,Minnesota Timberwolves,2.5,-120,67%
+Charlotte Hornets,3,TOV,F,Paul Reed,Philadelphia 76ers,0.5,135,27%
+Charlotte Hornets,1,STL,F,Paul Reed,Philadelphia 76ers,0.5,140,40%
+Indiana Pacers,4,FG3M,F,Brandon Ingram,New Orleans Pelicans,1.5,-146,60%
+Indiana Pacers,4,FG3M,F,Brandon Ingram,New Orleans Pelicans,1.5,-130,60%
+Chicago Bulls,4,BLK,F,Giannis Antetokounmpo,Milwaukee Bucks,0.5,-105,54%
+LA Clippers,3,BLK,F,Kyle Kuzma,Washington Wizards,0.5,-125,67%

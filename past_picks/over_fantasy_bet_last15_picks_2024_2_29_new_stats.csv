@@ -1,0 +1,19 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Houston Rockets,28,TOV,C,Jusuf Nurkic,Phoenix Suns,1.5,-130,53%
+Utah Jazz,26,STL,G,Jalen Suggs,Orlando Magic,1.5,110,60%
+Charlotte Hornets,28,TOV,G,Malik Beasley,Milwaukee Bucks,0.5,-115,46%
+Charlotte Hornets,28,TOV,G,Damian Lillard,Milwaukee Bucks,2.5,-120,66%
+San Antonio Spurs,27,TOV,G,Luguentz Dort,Oklahoma City Thunder,0.5,-150,46%
+San Antonio Spurs,27,TOV,G,Josh Giddey,Oklahoma City Thunder,1.5,100,53%
+San Antonio Spurs,27,TOV,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,2.5,100,46%
+Houston Rockets,30,BLK,G,Devin Booker,Phoenix Suns,0.5,145,40%
+San Antonio Spurs,26,BLK,G,Josh Giddey,Oklahoma City Thunder,0.5,114,73%
+Phoenix Suns,28,FG3M,G,Jalen Green,Houston Rockets,1.5,-110,53%
+Oklahoma City Thunder,28,STL,F,Julian Champagnie,San Antonio Spurs,0.5,100,46%
+Oklahoma City Thunder,28,STL,F,Jeremy Sochan,San Antonio Spurs,0.5,-135,66%
+Atlanta Hawks,29,BLK,F,Dorian Finney-Smith,Brooklyn Nets,0.5,100,33%
+Atlanta Hawks,29,BLK,F,Cameron Johnson,Brooklyn Nets,0.5,150,33%
+Utah Jazz,27,BLK,F,Paolo Banchero,Orlando Magic,0.5,105,26%
+Houston Rockets,28,BLK,F,Kevin Durant,Phoenix Suns,1.5,-120,60%
+Atlanta Hawks,29,FG3M,F,Dorian Finney-Smith,Brooklyn Nets,1.5,-125,13%
+Atlanta Hawks,29,FG3M,F,Cameron Johnson,Brooklyn Nets,2.5,-120,20%

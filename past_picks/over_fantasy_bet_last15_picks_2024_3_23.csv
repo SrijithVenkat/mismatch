@@ -1,0 +1,70 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Utah Jazz,30,PTS,C,Jock Landale,Houston Rockets,9.5,-105,26%
+Utah Jazz,30,PTS,C,Jock Landale,Houston Rockets,9.5,-104,26%
+San Antonio Spurs,27,PTS,C,Jusuf Nurkic,Phoenix Suns,9.5,-130,40%
+San Antonio Spurs,27,PTS,C,Jusuf Nurkic,Phoenix Suns,9.5,-125,40%
+San Antonio Spurs,27,PTS,C,Jusuf Nurkic,Phoenix Suns,10.5,100,33%
+San Antonio Spurs,27,PTS,C,Jusuf Nurkic,Phoenix Suns,10.5,102,33%
+Charlotte Hornets,27,REB,C,Clint Capela,Atlanta Hawks,11.5,-132,33%
+Charlotte Hornets,27,REB,C,Clint Capela,Atlanta Hawks,11.5,-125,33%
+Charlotte Hornets,27,REB,C,Clint Capela,Atlanta Hawks,12.5,108,33%
+Boston Celtics,26,PTS,G,Alex Caruso,Chicago Bulls,9.5,-125,53%
+Boston Celtics,26,PTS,G,Alex Caruso,Chicago Bulls,9.5,-122,53%
+Boston Celtics,26,PTS,G,Alex Caruso,Chicago Bulls,10.5,102,53%
+Boston Celtics,26,PTS,G,Ayo Dosunmu,Chicago Bulls,14.5,-130,53%
+Boston Celtics,26,PTS,G,Ayo Dosunmu,Chicago Bulls,14.5,-125,53%
+Boston Celtics,26,PTS,G,Ayo Dosunmu,Chicago Bulls,16.5,-106,46%
+Boston Celtics,26,PTS,G,Ayo Dosunmu,Chicago Bulls,15.5,-102,46%
+Boston Celtics,26,PTS,G,Coby White,Chicago Bulls,17.5,-115,40%
+Utah Jazz,30,PTS,G,Jalen Green,Houston Rockets,26.5,-125,33%
+Utah Jazz,30,PTS,G,Jalen Green,Houston Rockets,26.5,-120,33%
+Utah Jazz,30,PTS,G,Jalen Green,Houston Rockets,27.5,-105,26%
+Utah Jazz,30,PTS,G,Jalen Green,Houston Rockets,27.5,-104,26%
+Utah Jazz,30,PTS,G,Aaron Holiday,Houston Rockets,6.5,100,33%
+Portland Trail Blazers,28,PTS,G,Jamal Murray,Denver Nuggets,20.5,-108,53%
+Charlotte Hornets,26,REB,G,Bogdan Bogdanovic,Atlanta Hawks,3.5,-140,46%
+Charlotte Hornets,26,REB,G,Bogdan Bogdanovic,Atlanta Hawks,4.5,110,40%
+Charlotte Hornets,26,REB,G,Bogdan Bogdanovic,Atlanta Hawks,4.5,122,40%
+Charlotte Hornets,26,REB,G,Vit Krejci,Atlanta Hawks,3.5,118,0%
+Charlotte Hornets,26,REB,G,Vit Krejci,Atlanta Hawks,3.5,120,0%
+Charlotte Hornets,26,REB,G,Garrison Mathews,Atlanta Hawks,2.5,-120,33%
+Charlotte Hornets,26,REB,G,Dejounte Murray,Atlanta Hawks,5.5,-148,60%
+Charlotte Hornets,26,REB,G,Dejounte Murray,Atlanta Hawks,6.5,100,40%
+Charlotte Hornets,26,REB,G,Dejounte Murray,Atlanta Hawks,6.5,104,40%
+San Antonio Spurs,28,REB,G,Grayson Allen,Phoenix Suns,3.5,105,40%
+San Antonio Spurs,28,REB,G,Grayson Allen,Phoenix Suns,3.5,112,40%
+San Antonio Spurs,28,REB,G,Bradley Beal,Phoenix Suns,4.5,100,26%
+San Antonio Spurs,28,REB,G,Bradley Beal,Phoenix Suns,4.5,106,26%
+San Antonio Spurs,28,REB,G,Devin Booker,Phoenix Suns,4.5,-120,46%
+San Antonio Spurs,28,REB,G,Devin Booker,Phoenix Suns,4.5,-105,46%
+Phoenix Suns,27,AST,G,Tre Jones,San Antonio Spurs,6.5,-150,60%
+Phoenix Suns,27,AST,G,Tre Jones,San Antonio Spurs,7.5,114,46%
+Phoenix Suns,27,AST,G,Tre Jones,San Antonio Spurs,7.5,124,46%
+Utah Jazz,27,PTS,F,Jeff Green,Houston Rockets,7.5,100,33%
+Orlando Magic,29,PTS,F,Harrison Barnes,Sacramento Kings,11.5,-130,53%
+Orlando Magic,29,PTS,F,Harrison Barnes,Sacramento Kings,11.5,-115,53%
+Orlando Magic,29,PTS,F,Harrison Barnes,Sacramento Kings,12.5,100,46%
+Orlando Magic,29,PTS,F,Keegan Murray,Sacramento Kings,12.5,-115,53%
+Orlando Magic,29,PTS,F,Keegan Murray,Sacramento Kings,12.5,-112,53%
+Phoenix Suns,30,PTS,F,Jeremy Sochan,San Antonio Spurs,12.5,-110,53%
+Phoenix Suns,30,PTS,F,Jeremy Sochan,San Antonio Spurs,13.5,-105,46%
+Phoenix Suns,30,PTS,F,Jeremy Sochan,San Antonio Spurs,13.5,100,46%
+New York Knicks,30,REB,F,Dorian Finney-Smith,Brooklyn Nets,6.5,120,26%
+New York Knicks,30,REB,F,Dorian Finney-Smith,Brooklyn Nets,5.5,122,26%
+New York Knicks,30,REB,F,Dorian Finney-Smith,Brooklyn Nets,6.5,134,26%
+New York Knicks,30,REB,F,Dorian Finney-Smith,Brooklyn Nets,4.5,150,40%
+New York Knicks,30,REB,F,Dorian Finney-Smith,Brooklyn Nets,5.5,150,26%
+New York Knicks,30,REB,F,Cameron Johnson,Brooklyn Nets,4.5,110,33%
+New York Knicks,30,REB,F,Cameron Johnson,Brooklyn Nets,4.5,114,33%
+Atlanta Hawks,30,AST,F,Miles Bridges,Charlotte Hornets,3.5,-130,46%
+Atlanta Hawks,30,AST,F,Miles Bridges,Charlotte Hornets,3.5,-115,46%
+Atlanta Hawks,30,AST,F,Brandon Miller,Charlotte Hornets,2.5,100,46%
+Atlanta Hawks,30,AST,F,Brandon Miller,Charlotte Hornets,2.5,110,46%
+Atlanta Hawks,30,AST,F,Aleksej Pokusevski,Charlotte Hornets,2.5,140,13%
+Phoenix Suns,28,AST,F,Jeremy Sochan,San Antonio Spurs,2.5,-144,60%
+Phoenix Suns,28,AST,F,Jeremy Sochan,San Antonio Spurs,3.5,126,46%
+Toronto Raptors,27,AST,F,Deni Avdija,Washington Wizards,4.5,124,26%
+Toronto Raptors,27,AST,F,Corey Kispert,Washington Wizards,2.5,-135,20%
+Toronto Raptors,27,AST,F,Corey Kispert,Washington Wizards,2.5,-113,20%
+Toronto Raptors,27,AST,F,Kyle Kuzma,Washington Wizards,5.5,-110,13%
+Toronto Raptors,27,AST,F,Kyle Kuzma,Washington Wizards,5.5,110,13%

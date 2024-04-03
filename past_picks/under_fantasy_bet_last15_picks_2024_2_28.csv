@@ -1,0 +1,23 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Chicago Bulls,5,REB,C,Jarrett Allen,Cleveland Cavaliers,10.5,-125,40%
+Chicago Bulls,5,REB,C,Evan Mobley,Cleveland Cavaliers,8.5,100,74%
+Sacramento Kings,4,REB,C,Nikola Jokic,Denver Nuggets,12.5,-105,60%
+Cleveland Cavaliers,5,AST,C,Nikola Vucevic,Chicago Bulls,2.5,120,60%
+Cleveland Cavaliers,1,PTS,C,Nikola Vucevic,Chicago Bulls,18.5,-110,74%
+Chicago Bulls,2,REB,G,Donovan Mitchell,Cleveland Cavaliers,4.5,-105,60%
+New Orleans Pelicans,5,REB,G,Tyrese Haliburton,Indiana Pacers,3.5,-115,40%
+Cleveland Cavaliers,5,AST,G,Ayo Dosunmu,Chicago Bulls,4.5,-135,40%
+Cleveland Cavaliers,5,AST,G,Coby White,Chicago Bulls,5.5,-110,60%
+Memphis Grizzlies,1,AST,G,Mike Conley,Minnesota Timberwolves,5.5,114,60%
+Memphis Grizzlies,1,AST,G,Anthony Edwards,Minnesota Timberwolves,5.5,-140,27%
+Chicago Bulls,3,PTS,G,Darius Garland,Cleveland Cavaliers,15.5,-115,47%
+Chicago Bulls,3,PTS,G,Donovan Mitchell,Cleveland Cavaliers,25.5,105,80%
+Toronto Raptors,4,PTS,G,Josh Green,Dallas Mavericks,8.5,-125,67%
+Toronto Raptors,4,PTS,G,Kyrie Irving,Dallas Mavericks,26.5,-120,74%
+Chicago Bulls,2,REB,F,Georges Niang,Cleveland Cavaliers,2.5,100,60%
+New Orleans Pelicans,5,REB,F,Pascal Siakam,Indiana Pacers,6.5,-125,47%
+New Orleans Pelicans,5,REB,F,Obi Toppin,Indiana Pacers,3.5,105,54%
+Indiana Pacers,3,AST,F,Brandon Ingram,New Orleans Pelicans,6.5,-135,47%
+Indiana Pacers,3,AST,F,Zion Williamson,New Orleans Pelicans,5.5,-110,54%
+Denver Nuggets,1,PTS,F,Harrison Barnes,Sacramento Kings,10.5,-115,60%
+Denver Nuggets,1,PTS,F,Keegan Murray,Sacramento Kings,12.5,-120,47%

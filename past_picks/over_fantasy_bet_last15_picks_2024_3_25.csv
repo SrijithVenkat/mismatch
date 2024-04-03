@@ -1,0 +1,76 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Washington Wizards,28,PTS,C,Nikola Vucevic,Chicago Bulls,17.5,-140,60%
+Washington Wizards,28,PTS,C,Nikola Vucevic,Chicago Bulls,18.5,-135,60%
+Washington Wizards,28,PTS,C,Nikola Vucevic,Chicago Bulls,17.5,-128,60%
+Washington Wizards,28,PTS,C,Nikola Vucevic,Chicago Bulls,18.5,-125,60%
+Washington Wizards,28,PTS,C,Nikola Vucevic,Chicago Bulls,19.5,-113,53%
+Washington Wizards,28,PTS,C,Nikola Vucevic,Chicago Bulls,19.5,-105,53%
+San Antonio Spurs,27,PTS,C,Jusuf Nurkic,Phoenix Suns,9.5,-135,40%
+San Antonio Spurs,27,PTS,C,Jusuf Nurkic,Phoenix Suns,10.5,-125,33%
+San Antonio Spurs,27,PTS,C,Jusuf Nurkic,Phoenix Suns,10.5,-106,33%
+Toronto Raptors,29,PTS,C,Nic Claxton,Brooklyn Nets,12.5,-113,40%
+Charlotte Hornets,27,REB,C,Jarrett Allen,Cleveland Cavaliers,11.5,-115,46%
+Charlotte Hornets,27,REB,C,Jarrett Allen,Cleveland Cavaliers,11.5,-115,46%
+Charlotte Hornets,27,REB,C,Jarrett Allen,Cleveland Cavaliers,12.5,106,33%
+Toronto Raptors,30,REB,C,Nic Claxton,Brooklyn Nets,10.5,-136,13%
+Toronto Raptors,30,REB,C,Nic Claxton,Brooklyn Nets,11.5,100,13%
+Memphis Grizzlies,27,AST,C,Nikola Jokic,Denver Nuggets,8.5,-120,40%
+Memphis Grizzlies,27,AST,C,Nikola Jokic,Denver Nuggets,8.5,-118,40%
+Boston Celtics,26,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,16.5,-128,33%
+Boston Celtics,26,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,17.5,-115,20%
+Boston Celtics,26,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,17.5,-102,20%
+Boston Celtics,26,PTS,G,Vit Krejci,Atlanta Hawks,6.5,-115,26%
+Boston Celtics,26,PTS,G,Vit Krejci,Atlanta Hawks,6.5,-106,26%
+Boston Celtics,26,PTS,G,Dejounte Murray,Atlanta Hawks,24.5,-125,46%
+Boston Celtics,26,PTS,G,Dejounte Murray,Atlanta Hawks,24.5,-122,46%
+Boston Celtics,26,PTS,G,Dejounte Murray,Atlanta Hawks,25.5,-105,40%
+Boston Celtics,26,PTS,G,Dejounte Murray,Atlanta Hawks,25.5,-104,40%
+Portland Trail Blazers,28,PTS,G,Jalen Green,Houston Rockets,25.5,-130,53%
+Portland Trail Blazers,28,PTS,G,Jalen Green,Houston Rockets,26.5,-130,40%
+Portland Trail Blazers,28,PTS,G,Jalen Green,Houston Rockets,25.5,-122,53%
+Portland Trail Blazers,28,PTS,G,Jalen Green,Houston Rockets,26.5,-113,40%
+Portland Trail Blazers,28,PTS,G,Jalen Green,Houston Rockets,27.5,-102,33%
+Utah Jazz,30,PTS,G,Kyrie Irving,Dallas Mavericks,24.5,-106,46%
+Utah Jazz,30,PTS,G,Kyrie Irving,Dallas Mavericks,24.5,-105,46%
+Chicago Bulls,29,REB,G,Alex Caruso,Washington Wizards,3.5,-146,40%
+Chicago Bulls,29,REB,G,Alex Caruso,Washington Wizards,3.5,-145,40%
+Chicago Bulls,29,REB,G,Ayo Dosunmu,Washington Wizards,3.5,112,33%
+Chicago Bulls,29,REB,G,Ayo Dosunmu,Washington Wizards,3.5,114,33%
+Chicago Bulls,29,REB,G,Jordan Poole,Washington Wizards,3.5,126,46%
+Chicago Bulls,29,REB,G,Jordan Poole,Washington Wizards,3.5,130,46%
+Chicago Bulls,29,REB,G,Coby White,Washington Wizards,4.5,-130,46%
+Chicago Bulls,29,REB,G,Coby White,Washington Wizards,4.5,-125,46%
+Charlotte Hornets,26,REB,G,Darius Garland,Cleveland Cavaliers,2.5,-105,46%
+Charlotte Hornets,26,REB,G,Darius Garland,Cleveland Cavaliers,2.5,102,46%
+Denver Nuggets,27,REB,G,Desmond Bane,Memphis Grizzlies,3.5,-146,6%
+Indiana Pacers,30,REB,G,James Harden,LA Clippers,5.5,110,13%
+Indiana Pacers,30,REB,G,James Harden,LA Clippers,5.5,120,13%
+San Antonio Spurs,28,REB,G,Grayson Allen,Phoenix Suns,3.5,100,33%
+San Antonio Spurs,28,REB,G,Grayson Allen,Phoenix Suns,3.5,110,33%
+San Antonio Spurs,28,REB,G,Bradley Beal,Phoenix Suns,3.5,-145,46%
+San Antonio Spurs,28,REB,G,Bradley Beal,Phoenix Suns,3.5,-136,46%
+San Antonio Spurs,28,REB,G,Devin Booker,Phoenix Suns,4.5,-120,46%
+San Antonio Spurs,28,REB,G,Devin Booker,Phoenix Suns,4.5,-104,46%
+Chicago Bulls,30,AST,G,Alex Caruso,Washington Wizards,3.5,-148,53%
+Chicago Bulls,30,AST,G,Alex Caruso,Washington Wizards,3.5,-145,53%
+Chicago Bulls,30,AST,G,Ayo Dosunmu,Washington Wizards,4.5,-135,60%
+Chicago Bulls,30,AST,G,Ayo Dosunmu,Washington Wizards,4.5,-128,60%
+Chicago Bulls,30,AST,G,Jordan Poole,Washington Wizards,5.5,-136,33%
+Chicago Bulls,30,AST,G,Jordan Poole,Washington Wizards,5.5,-130,33%
+Chicago Bulls,30,AST,G,Jordan Poole,Washington Wizards,6.5,112,26%
+Chicago Bulls,30,AST,G,Jordan Poole,Washington Wizards,6.5,120,26%
+Chicago Bulls,30,AST,G,Coby White,Washington Wizards,4.5,-150,40%
+Chicago Bulls,30,AST,G,Coby White,Washington Wizards,4.5,-150,40%
+Chicago Bulls,30,AST,G,Coby White,Washington Wizards,5.5,126,40%
+Memphis Grizzlies,26,AST,G,Jamal Murray,Denver Nuggets,7.5,105,40%
+Memphis Grizzlies,26,AST,G,Jamal Murray,Denver Nuggets,7.5,108,40%
+Phoenix Suns,27,AST,G,Tre Jones,San Antonio Spurs,6.5,-130,60%
+Phoenix Suns,27,AST,G,Tre Jones,San Antonio Spurs,6.5,-120,53%
+Phoenix Suns,30,PTS,F,Jeremy Sochan,San Antonio Spurs,12.5,-120,46%
+Phoenix Suns,30,PTS,F,Jeremy Sochan,San Antonio Spurs,12.5,-113,46%
+Chicago Bulls,26,AST,F,Deni Avdija,Washington Wizards,3.5,-140,33%
+Chicago Bulls,26,AST,F,Deni Avdija,Washington Wizards,4.5,-115,33%
+Chicago Bulls,26,AST,F,Deni Avdija,Washington Wizards,4.5,-106,33%
+Chicago Bulls,26,AST,F,Corey Kispert,Washington Wizards,2.5,-136,20%
+Chicago Bulls,26,AST,F,Corey Kispert,Washington Wizards,2.5,-120,20%
+Chicago Bulls,26,AST,F,Kyle Kuzma,Washington Wizards,4.5,-120,40%

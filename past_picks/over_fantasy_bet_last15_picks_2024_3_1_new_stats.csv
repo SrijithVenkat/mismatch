@@ -1,0 +1,21 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Golden State Warriors,27,TOV,C,Jakob Poeltl,Toronto Raptors,1.5,120,33%
+Sacramento Kings,27,STL,C,Rudy Gobert,Minnesota Timberwolves,0.5,-125,46%
+Philadelphia 76ers,28,TOV,G,Tre Mann,Charlotte Hornets,1.5,-140,26%
+Charlotte Hornets,30,TOV,G,Buddy Hield,Philadelphia 76ers,1.5,100,40%
+Charlotte Hornets,30,TOV,G,Tyrese Maxey,Philadelphia 76ers,2.5,120,33%
+Detroit Pistons,29,STL,G,Donovan Mitchell,Cleveland Cavaliers,1.5,-138,53%
+Detroit Pistons,29,STL,G,Donovan Mitchell,Cleveland Cavaliers,1.5,-130,53%
+Cleveland Cavaliers,27,STL,G,Jaden Ivey,Detroit Pistons,0.5,-150,46%
+Chicago Bulls,26,FG3M,G,Malik Beasley,Milwaukee Bucks,3.5,105,46%
+Chicago Bulls,26,FG3M,G,Damian Lillard,Milwaukee Bucks,2.5,-140,46%
+Chicago Bulls,26,FG3M,G,Damian Lillard,Milwaukee Bucks,2.5,-140,46%
+LA Clippers,30,FG3M,G,Tyus Jones,Washington Wizards,1.5,130,33%
+New Orleans Pelicans,30,TOV,F,Pascal Siakam,Indiana Pacers,1.5,-125,40%
+LA Clippers,29,STL,F,Kyle Kuzma,Washington Wizards,0.5,-145,40%
+Washington Wizards,30,STL,F,Paul George,LA Clippers,1.5,120,46%
+Chicago Bulls,29,FG3M,F,Giannis Antetokounmpo,Milwaukee Bucks,0.5,100,60%
+Toronto Raptors,30,FG3M,F,Draymond Green,Golden State Warriors,0.5,-136,73%
+Toronto Raptors,30,FG3M,F,Draymond Green,Golden State Warriors,0.5,-130,73%
+Toronto Raptors,30,FG3M,F,Jonathan Kuminga,Golden State Warriors,0.5,105,33%
+Toronto Raptors,30,BLK,F,Jonathan Kuminga,Golden State Warriors,0.5,-115,46%

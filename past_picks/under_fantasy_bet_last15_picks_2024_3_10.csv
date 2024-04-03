@@ -1,0 +1,72 @@
+Team,Defense Rank,Stat,Position,Opposing Player,Opposing Player Team,PRJ Line,Odds,L15 Hit Rate
+Atlanta Hawks,4,PTS,C,Jonas Valanciunas,New Orleans Pelicans,10.5,-125,40%
+Atlanta Hawks,4,PTS,C,Jonas Valanciunas,New Orleans Pelicans,10.5,-113,40%
+Cleveland Cavaliers,2,PTS,C,Nic Claxton,Brooklyn Nets,12.5,-130,34%
+Cleveland Cavaliers,2,PTS,C,Nic Claxton,Brooklyn Nets,13.5,-122,34%
+Cleveland Cavaliers,2,PTS,C,Nic Claxton,Brooklyn Nets,11.5,-104,47%
+Sacramento Kings,4,REB,C,Alperen Sengun,Houston Rockets,10.5,-148,40%
+Sacramento Kings,4,REB,C,Alperen Sengun,Houston Rockets,10.5,-130,40%
+New Orleans Pelicans,1,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,16.5,-111,27%
+New Orleans Pelicans,1,PTS,G,Bogdan Bogdanovic,Atlanta Hawks,16.5,-110,27%
+New Orleans Pelicans,1,PTS,G,Dejounte Murray,Atlanta Hawks,23.5,-125,47%
+New Orleans Pelicans,1,PTS,G,Dejounte Murray,Atlanta Hawks,23.5,-120,47%
+New Orleans Pelicans,1,PTS,G,Dejounte Murray,Atlanta Hawks,22.5,-104,47%
+Minnesota Timberwolves,4,PTS,G,Austin Reaves,Los Angeles Lakers,14.5,-125,67%
+Minnesota Timberwolves,4,PTS,G,Austin Reaves,Los Angeles Lakers,14.5,-115,67%
+Minnesota Timberwolves,4,PTS,G,Austin Reaves,Los Angeles Lakers,13.5,100,74%
+Minnesota Timberwolves,4,PTS,G,D'Angelo Russell,Los Angeles Lakers,18.5,-128,60%
+Minnesota Timberwolves,4,PTS,G,D'Angelo Russell,Los Angeles Lakers,17.5,-120,74%
+Minnesota Timberwolves,4,PTS,G,D'Angelo Russell,Los Angeles Lakers,17.5,-113,74%
+New York Knicks,3,PTS,G,Buddy Hield,Philadelphia 76ers,14.5,-130,34%
+New York Knicks,3,PTS,G,Buddy Hield,Philadelphia 76ers,14.5,-125,34%
+New York Knicks,3,PTS,G,Buddy Hield,Philadelphia 76ers,13.5,-102,40%
+New York Knicks,3,PTS,G,Buddy Hield,Philadelphia 76ers,13.5,100,40%
+New York Knicks,3,PTS,G,Kyle Lowry,Philadelphia 76ers,9.5,-115,74%
+New York Knicks,3,PTS,G,Kyle Lowry,Philadelphia 76ers,9.5,-113,74%
+New Orleans Pelicans,3,REB,G,Bogdan Bogdanovic,Atlanta Hawks,3.5,-130,54%
+New Orleans Pelicans,3,REB,G,Bogdan Bogdanovic,Atlanta Hawks,3.5,-125,54%
+New Orleans Pelicans,3,REB,G,Dejounte Murray,Atlanta Hawks,5.5,100,67%
+New Orleans Pelicans,3,REB,G,Dejounte Murray,Atlanta Hawks,5.5,105,67%
+Milwaukee Bucks,4,REB,G,James Harden,LA Clippers,5.5,-134,54%
+Orlando Magic,2,REB,G,Tyrese Haliburton,Indiana Pacers,3.5,-136,27%
+Orlando Magic,2,REB,G,Tyrese Haliburton,Indiana Pacers,3.5,-135,27%
+New York Knicks,2,AST,G,Buddy Hield,Philadelphia 76ers,3.5,-115,74%
+New York Knicks,2,AST,G,Buddy Hield,Philadelphia 76ers,3.5,-111,74%
+New York Knicks,2,AST,G,Kyle Lowry,Philadelphia 76ers,5.5,-130,74%
+New York Knicks,2,AST,G,Kyle Lowry,Philadelphia 76ers,5.5,-122,74%
+Memphis Grizzlies,3,AST,G,Josh Giddey,Oklahoma City Thunder,3.5,110,60%
+Memphis Grizzlies,3,AST,G,Josh Giddey,Oklahoma City Thunder,3.5,118,60%
+Memphis Grizzlies,3,AST,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,6.5,-148,54%
+Memphis Grizzlies,3,AST,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,5.5,116,60%
+Memphis Grizzlies,3,AST,G,Shai Gilgeous-Alexander,Oklahoma City Thunder,5.5,120,60%
+Indiana Pacers,1,AST,G,Jalen Suggs,Orlando Magic,2.5,102,67%
+Indiana Pacers,1,AST,G,Jalen Suggs,Orlando Magic,2.5,110,67%
+Houston Rockets,5,AST,G,De'Aaron Fox,Sacramento Kings,5.5,-135,67%
+Houston Rockets,5,AST,G,De'Aaron Fox,Sacramento Kings,5.5,-130,67%
+Houston Rockets,5,AST,G,Malik Monk,Sacramento Kings,5.5,-136,47%
+Houston Rockets,5,AST,G,Malik Monk,Sacramento Kings,5.5,-135,47%
+Milwaukee Bucks,2,PTS,F,Paul George,LA Clippers,19.5,-104,54%
+Milwaukee Bucks,2,PTS,F,Paul George,LA Clippers,20.5,-104,54%
+Milwaukee Bucks,2,PTS,F,Kawhi Leonard,LA Clippers,23.5,-114,60%
+Orlando Magic,4,PTS,F,Pascal Siakam,Indiana Pacers,19.5,-108,60%
+Orlando Magic,4,PTS,F,Pascal Siakam,Indiana Pacers,19.5,-105,60%
+Houston Rockets,3,PTS,F,Harrison Barnes,Sacramento Kings,11.5,-128,40%
+Houston Rockets,3,PTS,F,Harrison Barnes,Sacramento Kings,11.5,-120,40%
+Houston Rockets,3,PTS,F,Harrison Barnes,Sacramento Kings,10.5,-105,54%
+Houston Rockets,3,PTS,F,Harrison Barnes,Sacramento Kings,10.5,104,54%
+Houston Rockets,3,PTS,F,Keegan Murray,Sacramento Kings,13.5,-130,34%
+Houston Rockets,3,PTS,F,Keegan Murray,Sacramento Kings,13.5,-128,34%
+Houston Rockets,3,PTS,F,Keegan Murray,Sacramento Kings,12.5,-102,40%
+Houston Rockets,3,PTS,F,Keegan Murray,Sacramento Kings,12.5,100,40%
+Atlanta Hawks,5,REB,F,Brandon Ingram,New Orleans Pelicans,5.5,-145,60%
+Atlanta Hawks,5,REB,F,Brandon Ingram,New Orleans Pelicans,4.5,122,60%
+Atlanta Hawks,5,REB,F,Herbert Jones,New Orleans Pelicans,3.5,-142,54%
+Atlanta Hawks,5,REB,F,Herbert Jones,New Orleans Pelicans,3.5,-135,54%
+Atlanta Hawks,5,REB,F,Zion Williamson,New Orleans Pelicans,6.5,-130,47%
+Atlanta Hawks,5,REB,F,Zion Williamson,New Orleans Pelicans,6.5,-125,47%
+New York Knicks,4,REB,F,Tobias Harris,Philadelphia 76ers,6.5,-130,60%
+New York Knicks,4,REB,F,Tobias Harris,Philadelphia 76ers,6.5,-128,60%
+Orlando Magic,2,REB,F,Pascal Siakam,Indiana Pacers,6.5,-140,47%
+Orlando Magic,2,REB,F,Pascal Siakam,Indiana Pacers,6.5,-132,47%
+Orlando Magic,4,AST,F,Pascal Siakam,Indiana Pacers,3.5,-140,47%
+Orlando Magic,4,AST,F,Pascal Siakam,Indiana Pacers,3.5,-128,47%
